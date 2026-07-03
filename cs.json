@@ -1,9 +1,9 @@
 {
-    "name": "",
+    "name": "Čeština",
     "description": "",
     "main": {
-        "bandage": "",
-        "bandagedsc": "",
+        "bandage": "Obvaz",
+        "bandagedsc": "Rulička obvazu s polštářkem, používá se ke zpomalení krvácení, stabilizaci zlomenin a léčbě kůže. Žádné účinky na zdraví svalstva.",
         "rippeddressing": "",
         "rippeddressingdsc": "",
         "rag": "",
