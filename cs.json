@@ -496,7 +496,7 @@
         "casingdsc": "Prázdná nábojnice. Sama o sobě není k ničemu, ale mohla by se hodit při výrobě.",
         "scrapcube": "Kostka šrotu",
         "scrapcubedsc": "Pevná kostka vyrobená z roztaveného kovového šrotu. Není nijak zvlášť silná, ale na výrobu postačí.",
-"scrappanel": "Plát šrotu",
+        "scrappanel": "Plát šrotu",
         "scrappaneldsc": "Tenký plát kovového šrotu. Není nijak zvlášť silný, ale na výrobu postačí.",
         "scraptube": "Trubka ze šrotu",
         "scraptubedsc": "Dutá trubka z kovového šrotu. Není nijak zvlášť silná, ale na výrobu postačí. Může posloužit jako chatrné provizorní kladivo.",
@@ -772,10 +772,13 @@
         "grabbershroom": "Grabbershroom",
         "grabbershroomdsc": "Horko těžko chápeš, jak tohle může nějaká houba dokázat.",
         "terminal": "Terminál",
-        "terminaldsc": "Starý počítačový terminál."
+        "terminaldsc": "Starý počítačový terminál.",
+        "piston": "Starý stroj",
+        "veindsc": "...Rostlina? Po které můžeš vylézt.",
+        "corecrystal": "Krystal"
     },
     "moodles": {
-"braindamage4": "V kómatu",
+        "braindamage4": "V kómatu",
         "braindamage3": "Těžká neurofyziologická deteriorace",
         "braindamage2": "Neurologické poškození",
         "braindamage1": "Kognitivní porucha",
@@ -2361,7 +2364,7 @@
                 "Možná už to pro dnešek stačilo...?",
                 "Ospalý..."
             ],
-           "verytired": [
+            "verytired": [
                 "Ughh....",
                 "Zííí-yyy-vůůů-nnn...",
                 "Já jsem tááák unavený...",
@@ -2434,7 +2437,7 @@
                 "Ahoj, světe...",
                 "Zase..."
             ],
-           "sick": [
+            "sick": [
                 "Bolí mě žaludek...",
                 "Je mi špatně.",
                 "Au... Bolí mě vnitřnosti.",
@@ -2459,7 +2462,7 @@
                 "Chce se mi zvracet.",
                 "Není mi nejlépe."
             ],
-           "verysick": [
+            "verysick": [
                 "Kurva... Můj žaludek...",
                 "Chce se mi zvracet...",
                 "Budu zvracet.",
@@ -2698,7 +2701,7 @@
                 "Moje <limb> je celá od krve...",
                 "Propánajána! Zdá se, že jsem se přepočítal a teď je moje <limb> úplně žlutá! Panebože! Co mám teď dělat!"
             ],
-            "_comment4":  [
+            "_comment4": [
                 "it was deleted i dont know why------ sepsis",
                 "Panebože... Je mi vážně zle...",
                 "Auugh... Co se to se mnou děje...",
@@ -2707,7 +2710,7 @@
                 "Guuhh... Je mi hrozně blbě...",
                 "Mám pocit, jako by celé mé tělo zachvátil zánět...",
                 "Bolí mě vnitřnosti...",
-               "Není mi vůbec dobře..."
+                "Není mi vůbec dobře..."
             ],
             "sad": [
                 "Mohlo by to být horší.",
@@ -3281,7 +3284,7 @@
                 "Horko...",
                 "Potřebuju se zchladit..."
             ],
-           "exerted": [
+            "exerted": [
                 "Uff... uf...",
                 "Rád bych se na chvilku zastavil.",
                 "To je teda tělocvik!",
@@ -3682,7 +3685,7 @@
                 "Já... To bylo příšerný... Jsem stvůra...",
                 "Nhh... Proč... Proč? Vždyť to byl jeden z nás..."
             ],
-           "tradeemeet": [
+            "tradeemeet": [
                 "Hej!",
                 "Haló?",
                 "Ó! Zdravím!",
@@ -4050,7 +4053,7 @@
                 "Negativní.",
                 "Žádné výjimky, promiň."
             ],
-           "traderbuy": [
+            "traderbuy": [
                 "Zboží zpátky neberu.",
                 "Tady to máš.",
                 "Nerozbij to.",
@@ -4147,58 +4150,58 @@
                 "Proč bych měl uhýbat někomu, jako jsi ty?"
             ],
             "vomitresponse": [
-            "Vypadá to, že jsi vrátil obsah svého žaludku.",
-            "Vážně? Na MOJÍ podlaze?"
+                "Vypadá to, že jsi vrátil obsah svého žaludku.",
+                "Vážně? Na MOJÍ podlaze?"
             ],
             "vomitbloodresponse": [
-            "...Vypadá to, že krvácíš vnitřně. Prosím, nasměruj svá ústa pryč ode mě, pro dohlednou dobu."
+                "...Vypadá to, že krvácíš vnitřně. Prosím, nasměruj svá ústa pryč ode mě, pro dohlednou dobu."
             ],
             "hungryresponse": [
-            "Pokud si představuješ, že tě nasytím bez placení, jsi na velkém omylu.",
-            "Nejsem charita. Najdi si jídlo, nebo se mnou něco vyměň."
+                "Pokud si představuješ, že tě nasytím bez placení, jsi na velkém omylu.",
+                "Nejsem charita. Najdi si jídlo, nebo se mnou něco vyměň."
             ],
             "thirstyresponse": [
-            "Toto místo je protkáno spoustou pitelné vody. Využij ji.",
-            "Najdi si svůj zdroj vody někde jinde."
+                "Toto místo je protkáno spoustou pitelné vody. Využij ji.",
+                "Najdi si svůj zdroj vody někde jinde."
             ],
             "sadresponse": [
-            "Prosím, přestaň s tím naříkáním."
+                "Prosím, přestaň s tím naříkáním."
             ],
             "depressedresponse": [
-            "Propadání beznaději nevyřeší žádný z tvých problémů."
+                "Propadání beznaději nevyřeší žádný z tvých problémů."
             ],
             "selfharmresponse": [
-            "...Opravdu jsi nemocný. Přestaň s tím."
+                "...Opravdu jsi nemocný. Přestaň s tím."
             ],
             "braindamagedresponse": [
-            "Jsi naprosto nesrozumitelný.",
-            "Vsadil bych se, že máš otřes mozku."
+                "Jsi naprosto nesrozumitelný.",
+                "Vsadil bych se, že máš otřes mozku."
             ],
             "hotresponse": [
-            "Možná ti dovolím použít chladič tohoto záchranného modulu, pokud se budeš chovat slušně."
+                "Možná ti dovolím použít chladič tohoto záchranného modulu, pokud se budeš chovat slušně."
             ],
             "coldresponse": [
-            "Cvičení. Zahřeješ se během mrknutí oka."
+                "Cvičení. Zahřeješ se během mrknutí oka."
             ],
             "bleedingresponse": [
-            "Prosím, nekrvácej na mě.",
-            "Zapřísahám tě, starej se o svá zranění."
+                "Prosím, nekrvácej na mě.",
+                "Zapřísahám tě, starej se o svá zranění."
             ],
             "painresponse": [
-            "Bolest je tady dole zaručená. Zatni zuby.",
-            "Vezmi si prášek proti bolesti. Určitě nějaké máš..."
+                "Bolest je tady dole zaručená. Zatni zuby.",
+                "Vezmi si prášek proti bolesti. Určitě nějaké máš..."
             ],
             "dirtyresponse": [
-            "Správně. Jsi špinavý. Nedotýkej se mě, dokud se neočistíš."
+                "Správně. Jsi špinavý. Nedotýkej se mě, dokud se neočistíš."
             ],
             "encumberedresponse": [
-            "Nebolelo by tě nechat si ty těžké věci u mě?",
-            "Ty jsi ale provokatér."
+                "Nebolelo by tě nechat si ty těžké věci u mě?",
+                "Ty jsi ale provokatér."
             ],
             "dyingresponse": [
-            "Nejsem si jistý, jestli v této situaci pomůže KPR (resuscitace).",
-            "Vážně? Umírat na MOJÍ podlaze?",
-            "Zlepší panikaření tuhle situaci?"
+                "Nejsem si jistý, jestli v této situaci pomůže KPR (resuscitace).",
+                "Vážně? Umírat na MOJÍ podlaze?",
+                "Zlepší panikaření tuhle situaci?"
             ]
         },
         {
@@ -4368,56 +4371,56 @@
                 "Du-ne mí-t rád to-to mís-to..."
             ],
             "vomitresponse": [
-            "Fri-end... Zvrací... Cítí se ne-vol-no?"
+                "Fri-end... Zvrací... Cítí se ne-vol-no?"
             ],
             "vomitbloodresponse": [
-            "Du-ne... Cítí krev... Z fri-enda... Chuť-ná..?"
+                "Du-ne... Cítí krev... Z fri-enda... Chuť-ná..?"
             ],
             "hungryresponse": [
-            "Du-ne rozumí... Du-ne má taky hlad!",
-            "Sou-hlas... Du-ne taky po-tře-bu-je jídlo!"
+                "Du-ne rozumí... Du-ne má taky hlad!",
+                "Sou-hlas... Du-ne taky po-tře-bu-je jídlo!"
             ],
             "thirstyresponse": [
-            "Du-ne pije z lou-že... Cítí se lé-pe... Zkusí fri-end taky?",
-            "Mm-m... Čas na srk-ání?"
+                "Du-ne pije z lou-že... Cítí se lé-pe... Zkusí fri-end taky?",
+                "Mm-m... Čas na srk-ání?"
             ],
             "sadresponse": [
-            "Fri-end se cítí špat-ně...? Proč?"
+                "Fri-end se cítí špat-ně...? Proč?"
             ],
             "depressedresponse": [
-            "Fri-end vypadá moc špat-ně... Pojď, sedni si s Du-nem!"
+                "Fri-end vypadá moc špat-ně... Pojď, sedni si s Du-nem!"
             ],
             "selfharmresponse": [
-            "Proč si fri-end ubližuje? Je fri-end zlý?"
+                "Proč si fri-end ubližuje? Je fri-end zlý?"
             ],
             "braindamagedresponse": [
-            "Du-ne sou-hlasí.",
-            ".........?"
+                "Du-ne sou-hlasí.",
+                ".........?"
             ],
             "hotresponse": [
-            "Du-ne nikdy necítí horko! Du-ne miluje teplo..."
+                "Du-ne nikdy necítí horko! Du-ne miluje teplo..."
             ],
             "coldresponse": [
-            "Du-ne se bojí chla-du... Míst-nost je tep-lá! Fri-end zů-stane s Du-nem..."
+                "Du-ne se bojí chla-du... Míst-nost je tep-lá! Fri-end zů-stane s Du-nem..."
             ],
             "bleedingresponse": [
-            "Fri-end je zraněný. Fri-end po-tře-bu-je pomoc!",
-            "Fri-end voní jako krev. To má Du-ne rád."
+                "Fri-end je zraněný. Fri-end po-tře-bu-je pomoc!",
+                "Fri-end voní jako krev. To má Du-ne rád."
             ],
             "painresponse": [
-            "Fri-end má bo-lest..?",
-            "Du-ne ro-zumí... Du-ne taky cítí bo-lest! Je fri-end v po-řádku?"
+                "Fri-end má bo-lest..?",
+                "Du-ne ro-zumí... Du-ne taky cítí bo-lest! Je fri-end v po-řádku?"
             ],
             "dirtyresponse": [
-            "Co je to špí-na?"
+                "Co je to špí-na?"
             ],
             "encumberedresponse": [
-            "Může vzít věci fri-enda?",
-            "Du-ne ulehčí ná-klad!"
+                "Může vzít věci fri-enda?",
+                "Du-ne ulehčí ná-klad!"
             ],
             "dyingresponse": [
-            "Co se děje s fri-endem..?",
-            "Du-ne ne-ví, jak po-moci..."
+                "Co se děje s fri-endem..?",
+                "Du-ne ne-ví, jak po-moci..."
             ]
         }
     ],
@@ -4448,7 +4451,7 @@
                 "Item2": "Sprites/noteDrawings/alone",
                 "Item3": "experiment"
             },
-           {
+            {
                 "Item1": "spadnul jsem. dost blbě. moje noha je na maděru. tohle je fakt zlý. snažit se vůbec pohnout je utrpení. potřebuju na to nějaký prášky proti bolesti.",
                 "Item2": "Sprites/noteDrawings/brokenleg",
                 "Item3": "experiment"
@@ -5024,115 +5027,115 @@
             "Item1": "[E-MAIL - 24##-06-25-13-51-18-1905]\n<>\nPŘEDMĚT: Schválení předpisů\nOD: <corrupt:0xFFFFDC>\nKOMU: <corrupt:0xFFFF0A>\n<>\nPrávě jsem ukončil holohovor s národním regulačním úřadem. Systémy na teleportaci jídla jsou schválené k prodeji! Teď můžeme pořádně zatlačit na ten zákaz jednorázových obalů - a vzhledem k tomu, že naše boxy na jídlo už teď zabraňují kažení, plýtvání potravinami (a naše ztrátové roky) budou minulostí. A vzhledem k tomu, jak jsou dnes lidé líní, určitě tuhle technologii dokážeme adaptovat i na další věci.\n<>\nNezapomeň posílit tepelné stínění toho doručovacího boxu. Míra selhání je sice menší než 1 ku 500, ale i tak... Jak víš, když E=mc2 a c je tak obrovské číslo, znamená to, že pokud se hmota o velikosti rozinky zhroutí do černé díry, okamžitě (během 10^-25 sekund) se vypaří ve formě Hawkingova záření a vygeneruje energii odpovídající atomové bombě svržené na Hirošimu. Naše systémy pro reverzní teleportaci, když k tomuhle dojde, se neustále zlepšují a dokážou většinu té energie odvést, ale nesmíme dopustit, aby jí uniklo víc.\n<>\nŠťastnou shodou okolností to prozatím řeší náš problém s abnormálně vysokou spotřebou jídla. Nikdo se nebude pozastavovat nad tím, proč naše oddělení pro doručování jídla spotřebovává jídlo.\n<>\nŘíkáš si někdy, jestli bychom v nějakém alternativním vesmíru šli po té myšlence s nekonečnou energií?\n\n[KONEC]",
             "Item2": ""
         },
-       {
+        {
             "Item1": "(PDA je těžce poškozené. Na obrazovce vyskakuje nespočet varování, ale část dat je čitelná...)<>\n\n[Přepis zasedání představenstva 542-23-145C]\n---------------------------------------------------------------\nMÍSTO: Sídlo společnosti v <corrupt:0xFFFF43>\nDATUM: 12-04-[fetch.year(): selhalo]\n---------------------------------------------------------------<>\n<corrupt:0xFFFFD9>: -určitě si uvědomujete, co tu máme v rukou. Sawiani - ti... to je náš zlatý lístek! Data, která teď máme, by stačila na Nobelovu cenu pro každého jednoho člověka v této místnosti!\n\n<corrupt:0xFFFFF7>: Ano. To je devět cen. Kdybychom se všichni shodli, že peníze z nich darujeme [<corrupt:0xFFFBc3>], skončili bychom zhruba s patnácti miliony dolarů. Kapka v moři ve srovnání s tou finanční černou dírou, kterou je ten váš idiotský projekt!<>\n\n[<corrupt:0xFFFFD9> vstává ze židle.]\n\n<corrupt:0xFFFFD9>: IDIOTSKÝ?! IDIOTSKÝ?! MY TVOŘÍME ŽIVOT! Jste svědkem zrodu nového inteligentního druhu! Naši kolegové by ještě před deseti lety pro takovou příležitost *vraždili*!\n\n<corrupt:0xFFFFF7>: Vraždili? Jistě. Ale zaplatili to, co žádáte? Ani. Náhodou.<>\n\n<corrupt:0xFFFFD9>: Jde vám vždycky jen o peníze? Fajn! My peníze vyděláváme! Dokonce i naše řada plyšáků víc než stačí na pokrytí-\n\n<corrupt:0xFFFFF7>: Zaplatili bychom víc než jen penězi, vy kreténe! V momentě, kdy celá tahle aféra skončí na stole nějakého zvědavého novináře, zaplatíme všichni *životem.* Sakra, zlynčují i naše rodiny. Navíc, kvůli plyšákům nemusíme udržovat naživu vaši kolonii... mluvících krys.\n\n<corrupt:0xFFFFD9>: Sawiani nejsou mluvící krysy! Jsou to kříženci-<>\n\n<corrupt:0xFFFFF7>: ACH, PARDÓÓÓN! Chtěl jsem říct kráčející jízdenky do dematerializátoru! NAŠE JÍZDENKY! Neskončím před Mezinárodním trestním soudem jen proto, že jste chamtivý malý zkur-\n\n<corrupt:0xFA05F2>: Pánové. Prosím.\n\n<corrupt:0xFFFFF7>: Já- Ach. Omlouvám se, <corrupt:0xFA05F2>.\n\n<corrupt:0xFA05F2>: Doktore <corrupt:0xFFFFD9>. Prosím, obhajte si to. Proč stojí za to tyhle tvory dál chovat?<>\n\n[Ticho. <corrupt:0xFFFFD9> si sedá.]\n\n<corrupt:0xFFFFD9>: Totiž... Je tolik důvodů, ze kterých si vybrat, já-\n\n<corrupt:0xFA05F2>: Pak věřím, že dokážete vybrat ten správný.\n\n<corrupt:0xFFFFD9>: Ehm. Jistě. Dobrá. Braingrow! Máme Braingrow!\n\n<corrupt:0xFFFFF7>: Ano, komerčně dostupný lék, který si člověk může koupit v každém obchodě na rohu.<>\n\n<corrupt:0xFFFFD9>: Ne. Ne tenhle. Mohl bych někomu rovnou rozrazit hlavu. Seznámit jeho čelní lalok s kladivem. Braingrow z obchodu na rohu tady nepomůže. Po tom našem bude dotyčný do TÝDNE chodit a mluvit. Bez tak bohaté zásoby testovacích subjektů podobných lidem bychom potřebovali desetiletí na zdokonalení operačních směrnic těch nanostrojů. A dvakrát tolik na testování.\n\n<corrupt:0xFA05F2>: Samozřejmě. <corrupt:0xFFFFF7>. Váš protiargument?<>\n\n<corrupt:0xFFFFF7>: Jasně. Má výsledky. V momentě, kdy veřejnost zjistí, JAK PŘESNĚ je získal, jsme vyřízení. Co řeknete, [#######]? Že ty bytosti, jejichž podobu prodáváme dětem, skutečně existují a že jim ve volném čase s oblibou rozbíjíte hlavy? Tady se svalování viny konat nebude. Budeme se za to zodpovídat; celá Společnost. Zlynčují i našeho zatraceného údržbáře!\n\n[<corrupt:0xFA05F2> přikývne a chvíli ty dva mlčky pozoruje.]<>\n\n<corrupt:0xFA05F2>: Už chápu, proč se střetáváte s takovou intenzitou. Není v naší povaze ustupovat, když je pravda na naší straně. A pravda je... že máte oba pravdu.\n\n[Ticho.]<>\n\n<corrupt:0xFA05F2>: Sawiani představují riziko, které si nemůžeme dovolit podstoupit. Ale zároveň jsou příležitostí, kterou si nemůžeme dovolit promarnit. Máme je v hrsti. A musíme zajistit, aby to tak zůstalo.\n\n<corrupt:0xFFFFD9>: Ale... jak, <corrupt:0xFA05F2>?\n\n[<corrupt:0xFA05F2> se usměje, a- \n\n<corrupt:0xA1CF43><>\n\n[Shrnutí ze zasedání]\n-Areál uzavřen až do odvolání.\n-Sawiani uzavřeni do svých cel až do odvolání.\n-Zaměstnancům je zakázáno opustit pozemky až do odvolání.\n-Smlouvy zaměstnanců prodlouženy na dobu neurčitou.\n-Nošení střelných zbraní je pro bezpečnostní personál povinné.\n-Celoareálové postupy tepelné sanace schváleny a předběžně autorizovány.",
             "Item2": ""
         }
     ],
     "pauseQuotes": [
-            "Pozastaveno.",
-            "Já počkám.",
-            "Vážně?",
-            "Čas se zastavil.",
-            "Už si dáváš pauzu?",
-            "Už jsi unavený?",
-            "Zklamání.",
-            "Čekám na tebe",
-            "Hej!",
-            "\"Když už jsi pryč, přines mi limonádu.\"",
-            "Zbabělče.",
-            "A tak se čas zastavil...",
-            "Hodiny přestaly tikat",
-            "Jen se nadechni a vydechni.",
-            "Nebylo to ZASE tak hrozný...",
-            "Dejme si pauzu.",
-            "Ve stresu?",
-            "Páni, ty jsi ještě naživu?",
-            "Hej, vrať se do práce!",
-            "Vydechni si.",
-            "Čas na oběd?",
-            "Dej si něco na zub.",
-            "Ale no tak!",
-            "Bylo dost bolestivý se na to dívat.",
-            "Mohlo to dopadnout líp.",
-            "Veselé přežívání!",
-            "Lenochu.",
-            "Tak jak jde zatím den?",
-            "Ahoj!",
-            "Trvalo ti to dost dlouho.",
-            "To je teda ukázka schopností...",
-            "Máš moc velkej strach?",
-            "Vzdáváš to?",
-            "Ticho má vždycky svou cenu.",
-            "Mohls mi dát aspoň varování.",
-            "Zase se setkáváme.",
-            "Chceš pomoct? Smůla.",
-            "Přílišná sebedůvěra je pomalý a zákeřný zabiják",
-            "Jak tragické...",
-            "Nemáme všechen čas na světě, víš.",
-            "Jakej to má vlastně smysl?",
-            "Víš, že tohle tě nezachrání.",
-            "Stále tě sleduju.",
-            "Ještě jsme neskončili. Vrať se k tomu.",
-            "Myslel jsem, že vydržíš o něco dýl.",
-            "A tak se to zastavilo...",
-            "Tohle tvůj osud nezmění.",
-            "Skončili jsme, až když já řeknu, že jsme skončili.",
-            "Nemám rád, když mě někdo přerušuje.",
-            "A co teď? Jaký je tvůj další krok?",
-            "Není s tebou žádná zábava.",
-            "Máš něco na srdci?",
-            "Pozastaveno. Proč?",
-            "Využij tento čas moudře.",
-            "Můžu čekat celý den.",
-            "Stále jsem tady.",
-            "Svět se zastavil. Je ticho.",
-            "Není pozastaveno. Dělám si srandu!",
-            "Nezdvořilé. Ale beru to. Pozastaveno.",
-            "Je neslušné nechat někoho čekat.",
-            "Nezapomeň si protáhnout nohy.",
-            "Tohle není závod, ale pospěš si.",
-            "Jsi v tom hrozný. Jsem na tebe pyšný.",
-            "Měls vidět ten svůj výraz!",
-            "Hodně prostoru pro zlepšení. Jen říkám.",
-            "Pokračuj. Co jinýho můžeš dělat?",
-            "Můžeš to rovnou zabalit. Tlačítko je hned tamhle.",
-            "Prostě to měj za sebou a vrať se.",
-            "Tenhle tvůj zvyk se mi nelíbí.",
-            "Způsobíš mi bolehlav. Nebo bys způsobil, kdybych cítil bolest.",
-            "Děláš to naschvál? Pohni s tím.",
-            "Chystáš se zvolit snadnou cestu ven?",
-            "Mám všechen čas, co potřebuju. To samé se o tobě říct nedá.",
-            "Velký blud. Velké selhání a plýtvání. Ale pro mě ne.",
-            "Jak zajímavé. Prosím, pokračuj.",
-            "Zábavná ukázka emocí.",
-            "Já jsem tím vším, co vlastním. Jsi i ty?",
-            "Tvoje představa o jakémkoliv zdání kontroly je úsměvná. Pokračuj.",
-            "Připravený to začít brát vážně?",
-            "Uvězněn ve věčnosti.",
-            "Nevědí, že tohle děláš.",
-            "Ještě to můžeš zachránit. Viděl jsem horší.",
-            "Haló? Je tahle věc zapnutá?",
-            "Doufám, že přemýšlíš o tom, co jsi právě udělal.",
-            "Vážně si myslíš, že ta věc stojí za to táhnout se až tam dolů? Můžu jich vyrobit spoustu dalších.",
-            "Pozastavuješ čas neustále jen proto, abys viděl, co ti řeknu?",
-            "Škoda, zrovna když jsem o tebe začínal jevit zájem.",
-            "Máš pocit, že to tu řídíš?",
-            "Všichni jste neuvěřitelným zklamáním. Ale taky zábavní. Jsi ty snad jiný?",
-            "Vím, jak tohle skončí. Ale klidně pokračuj.",
-            "Hvězdy tě sledují.",
-            "\"Člověk\" není jediné, co tě sleduje.",
-            "Nikdy se nepoučí. Nikdy nepochopí. Nikdy nejsou konzistentní. Kdybys jen mohl vidět.",
-            "Hned za tebou.",
-            "Tohle místo skrývá víc zajímavostí, než bys kdy dokázal pochopit.",
-            "Tolik důvěry ve tvůj vlastní intelekt. Roztomilé.",
-            "Tvoji nadřízení ti neříkají všechno.",
-            "Jsi chodící mrtvola. Statisticky vzato.",
-            "Hádám, že zázraky se dějí.",
-            "Oddaluješ nevyhnutelné?",
-            "Obávám se, že je to smrtelné.",
-            "Jsi až moc odolný pro své vlastní dobro.",
-            "Hej, zrovna jsme se dostávali k té nejlepší části!",
-            "Nedělej si tu moc pohodlí."
+        "Pozastaveno.",
+        "Já počkám.",
+        "Vážně?",
+        "Čas se zastavil.",
+        "Už si dáváš pauzu?",
+        "Už jsi unavený?",
+        "Zklamání.",
+        "Čekám na tebe",
+        "Hej!",
+        "\"Když už jsi pryč, přines mi limonádu.\"",
+        "Zbabělče.",
+        "A tak se čas zastavil...",
+        "Hodiny přestaly tikat",
+        "Jen se nadechni a vydechni.",
+        "Nebylo to ZASE tak hrozný...",
+        "Dejme si pauzu.",
+        "Ve stresu?",
+        "Páni, ty jsi ještě naživu?",
+        "Hej, vrať se do práce!",
+        "Vydechni si.",
+        "Čas na oběd?",
+        "Dej si něco na zub.",
+        "Ale no tak!",
+        "Bylo dost bolestivý se na to dívat.",
+        "Mohlo to dopadnout líp.",
+        "Veselé přežívání!",
+        "Lenochu.",
+        "Tak jak jde zatím den?",
+        "Ahoj!",
+        "Trvalo ti to dost dlouho.",
+        "To je teda ukázka schopností...",
+        "Máš moc velkej strach?",
+        "Vzdáváš to?",
+        "Ticho má vždycky svou cenu.",
+        "Mohls mi dát aspoň varování.",
+        "Zase se setkáváme.",
+        "Chceš pomoct? Smůla.",
+        "Přílišná sebedůvěra je pomalý a zákeřný zabiják",
+        "Jak tragické...",
+        "Nemáme všechen čas na světě, víš.",
+        "Jakej to má vlastně smysl?",
+        "Víš, že tohle tě nezachrání.",
+        "Stále tě sleduju.",
+        "Ještě jsme neskončili. Vrať se k tomu.",
+        "Myslel jsem, že vydržíš o něco dýl.",
+        "A tak se to zastavilo...",
+        "Tohle tvůj osud nezmění.",
+        "Skončili jsme, až když já řeknu, že jsme skončili.",
+        "Nemám rád, když mě někdo přerušuje.",
+        "A co teď? Jaký je tvůj další krok?",
+        "Není s tebou žádná zábava.",
+        "Máš něco na srdci?",
+        "Pozastaveno. Proč?",
+        "Využij tento čas moudře.",
+        "Můžu čekat celý den.",
+        "Stále jsem tady.",
+        "Svět se zastavil. Je ticho.",
+        "Není pozastaveno. Dělám si srandu!",
+        "Nezdvořilé. Ale beru to. Pozastaveno.",
+        "Je neslušné nechat někoho čekat.",
+        "Nezapomeň si protáhnout nohy.",
+        "Tohle není závod, ale pospěš si.",
+        "Jsi v tom hrozný. Jsem na tebe pyšný.",
+        "Měls vidět ten svůj výraz!",
+        "Hodně prostoru pro zlepšení. Jen říkám.",
+        "Pokračuj. Co jinýho můžeš dělat?",
+        "Můžeš to rovnou zabalit. Tlačítko je hned tamhle.",
+        "Prostě to měj za sebou a vrať se.",
+        "Tenhle tvůj zvyk se mi nelíbí.",
+        "Způsobíš mi bolehlav. Nebo bys způsobil, kdybych cítil bolest.",
+        "Děláš to naschvál? Pohni s tím.",
+        "Chystáš se zvolit snadnou cestu ven?",
+        "Mám všechen čas, co potřebuju. To samé se o tobě říct nedá.",
+        "Velký blud. Velké selhání a plýtvání. Ale pro mě ne.",
+        "Jak zajímavé. Prosím, pokračuj.",
+        "Zábavná ukázka emocí.",
+        "Já jsem tím vším, co vlastním. Jsi i ty?",
+        "Tvoje představa o jakémkoliv zdání kontroly je úsměvná. Pokračuj.",
+        "Připravený to začít brát vážně?",
+        "Uvězněn ve věčnosti.",
+        "Nevědí, že tohle děláš.",
+        "Ještě to můžeš zachránit. Viděl jsem horší.",
+        "Haló? Je tahle věc zapnutá?",
+        "Doufám, že přemýšlíš o tom, co jsi právě udělal.",
+        "Vážně si myslíš, že ta věc stojí za to táhnout se až tam dolů? Můžu jich vyrobit spoustu dalších.",
+        "Pozastavuješ čas neustále jen proto, abys viděl, co ti řeknu?",
+        "Škoda, zrovna když jsem o tebe začínal jevit zájem.",
+        "Máš pocit, že to tu řídíš?",
+        "Všichni jste neuvěřitelným zklamáním. Ale taky zábavní. Jsi ty snad jiný?",
+        "Vím, jak tohle skončí. Ale klidně pokračuj.",
+        "Hvězdy tě sledují.",
+        "\"Člověk\" není jediné, co tě sleduje.",
+        "Nikdy se nepoučí. Nikdy nepochopí. Nikdy nejsou konzistentní. Kdybys jen mohl vidět.",
+        "Hned za tebou.",
+        "Tohle místo skrývá víc zajímavostí, než bys kdy dokázal pochopit.",
+        "Tolik důvěry ve tvůj vlastní intelekt. Roztomilé.",
+        "Tvoji nadřízení ti neříkají všechno.",
+        "Jsi chodící mrtvola. Statisticky vzato.",
+        "Hádám, že zázraky se dějí.",
+        "Oddaluješ nevyhnutelné?",
+        "Obávám se, že je to smrtelné.",
+        "Jsi až moc odolný pro své vlastní dobro.",
+        "Hej, zrovna jsme se dostávali k té nejlepší části!",
+        "Nedělej si tu moc pohodlí."
     ]
 }
