@@ -573,7 +573,8 @@
         "woodsandals": "Dřevěné sandály",
         "woodsandalsdsc": "Dřevěná deska přivázaná k tvým tlapkám provazem. V žádném ohledu nejsou pohodlné, ale ochrání tě před ostrými úlomky... Pokud budeš mít štěstí, tak i více než jednou!",
         "minibarrel": "Mini-sud",
-        "minibarreldsc": "Malý průmyslový sud určený ke skladování kapalin. Extrémně těžký a nepraktický k používání."
+        "minibarreldsc": "Malý průmyslový sud určený ke skladování kapalin. Extrémně těžký a nepraktický k používání.",
+        "cryogeniccore": "Kryogenické jádro"
     },
     "buildings": {
         "animalcorpse": "Zvířecí mršina",
