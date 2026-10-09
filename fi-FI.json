@@ -302,7 +302,7 @@
         "mushpeardsc": "Sininen kasvinosa, tehty veden jakeluun. Tuskin syötävää, oudolla painoa absorboivalla ominaisuudella ja vastenmielisellä maulla. Vähentää kehon massaa syötäessä. Vaikuttaa sisältävän pieniä opiaattipitoisuuksia.",
         "mushtail": "Sienihäntä",
         "mushtaildsc": "Sienikasvin loppuhäntä. Sisältää kemikaalin, joka voi välittömästi tyrmätä jonkun hetkeksi, näkyvällä mielialan nousulla sen jälkeen. Outoa. Ei ravintoarvoa.",
-		"aquapple": "Aquapple",
+        "aquapple": "Aquapple",
         "aquappledsc": "A watery, bubble-shaped fruit. Looks and feels a little disgusting, but has high water content. Decays very fast.",
         "droppings": "Jätökset",
         "droppingsdsc": "Se on kakkaa.",
@@ -315,7 +315,7 @@
         "bikehelmet": "Pyöräilykypärä",
         "bikehelmetdsc": "Kypärä, joka on suunniteltu vähentämään päähän kohdistuvien iskujen vakavuutta. Vähentää putoamisesta johtuvia päävammoja.",
         "riothelmet": "Riot helmet",
-        "riothelmetdsc": "An advanced helmet that greatly reduces the severity of head trauma.",																							
+        "riothelmetdsc": "An advanced helmet that greatly reduces the severity of head trauma.",
         "holidayhat": "Juhlalakki",
         "holidayhatdsc": "Olet kuullut, että ihmiset käyttävät näitä jonkinlaisena erityisenä juhlapäivänä, mutta et ole varma mistä siinä on kyse. On mukavaa, että sinulle lähetettiin yksi mukaan, ainakin.",
         "headlamp": "Otsalamppu",
@@ -686,7 +686,7 @@
         "reinforceddoordsc": "Todennäköisesti avattavissa jollakin...",
         "ReliefCrystal": "Lievityskristalli",
         "ReliefCrystaldsc": "Se näyttää terävältä ja punertavalta.",
-       "crystalmini": "Crystal",
+        "crystalmini": "Crystal",
         "crystalminidsc": "A tiny bioluminescent crystal.",
         "crystalsmall": "Crystal",
         "crystalsmalldsc": "A small bioluminescent crystal.",
@@ -745,9 +745,9 @@
         "geyserdsc": "Epävakaa geysir jolla on taipumus suihkuttaa vettä. Onneksi se on pahimmillaankin huoneenlämpöistä.",
         "oilpipe": "Jäteputki",
         "oilpipedsc": "Ruosteinen putki, josta valuu tummaa tervaa. Et halua katsoa sisään... Luultavasti tulvii alueen ajan kanssa.",
-		"pop": "Pop",
+        "pop": "Pop",
         "popdsc": "A long, dull purple colored plant, with a large semi-transparent bulb growing on the end.",
-		"mushroomdropper": "Mushroom dropper",
+        "mushroomdropper": "Mushroom dropper",
         "mushroomdropperdsc": "Sieni joka vapauttaa lakkinsa levittääkseen itiöitään kaikkien epäonnisten ohikulkijoiden päälle.",
         "mushroomdropperpayload": "Pudotussienen lakki",
         "mushroomdropperpayloaddsc": "Se on se osa, joka putoaa alas ja sattuu.",
@@ -1508,12 +1508,10 @@
         "runsetminigamehandshakedsc": "How much your hand shakes during minigames while in pain",
         "runsetdebugworld": "Debug world",
         "runsetdebugworlddsc": "If on, makes the world much smaller to speed up generation. Not made for normal gameplay",
-
         "tutorialwarning": "<size=150%>Before you go...\n\n<size=100%>You haven't gone through the basics course yet.\nAre you sure you want to go in completely blind?\n\n\n\nYour demise is all but guaranteed.",
         "tutorialwarningyes": "Suorita peruskoulutus",
         "tutorialwarningno": "Tiedän mitä teen!",
         "pausereturn": "Return",
-
         "pausegiveup": "Give up",
         "pausegiveup2": "Are you sure?",
         "pausegiveup3": "Are you ABSOLUTELY sure?",
@@ -1523,7 +1521,7 @@
         "pausegiveupdsc": "Abandon this life",
         "pauseexit": "Exit",
         "pausesettings": "Settings",
-        "pausesettingsdsc": "Because the game is too loud",												   
+        "pausesettingsdsc": "Because the game is too loud",
         "resettodefault": "Palauta oletuksiin",
         "tabvideo": "Video",
         "tabaudio": "Audio",
@@ -1837,8 +1835,6 @@
         "hpopiate": "Opiaattimäärä",
         "settings": "Settings",
         "credits": "Credits",
-
-
         "layer": "Kerros",
         "toggleheatmode": "Vaihda lämpötilaa",
         "activateshower": "Aktivoi suihku",
@@ -2698,16 +2694,6 @@
                 "Minun <limb> ei näytä hyvältä...",
                 "Minun <limb> on ihan veressä...",
                 "Hyvä tavaton! Näyttää siltä että tein laskuvirheitä ja nyt <limb> on kokonaan keltainen! Voi hyvä luoja! Mitä teen nyt!"
-
-
-
-
-
-
-
-
-
-
             ],
             "sad": [
                 "Voisi olla huonompaakin.",
