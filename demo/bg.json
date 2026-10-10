@@ -1,7 +1,6 @@
 {
-    "name": "",
+    "name": "български",
     "description": "",
-    "version": "",
     "main": {
         "bandage": "",
         "bandagedsc": "",
@@ -335,8 +334,6 @@
         "blindfolddsc": "",
         "balaclava": "",
         "balaclavadsc": "",
-        "earmuffs": "",
-        "earmuffsdsc": "",
         "latexgloves": "",
         "latexglovesdsc": "",
         "tacticalgloves": "",
@@ -361,8 +358,8 @@
         "hoodiedsc": "",
         "metabolismchip": "",
         "metabolismchipdsc": "",
-        "heatfernsponge": "",
-        "heatfernspongedsc": "",
+        "xalorissponge": "",
+        "xalorisspongedsc": "",
         "jetpack": "",
         "jetpackdsc": "",
         "dynamite": "",
@@ -608,8 +605,8 @@
         "snowstriderdsc": "",
         "spaceheater": "",
         "spaceheaterdsc": "",
-        "heatfern": "",
-        "heatferndsc": "",
+        "xaloris": "",
+        "xalorisdsc": "",
         "lifepodheater": "",
         "lifepodheaterdsc": "",
         "tutorialcraftingbutton": "",
@@ -999,7 +996,6 @@
         "impendingdoom": "",
         "horrified": "",
         "focused": "",
-        "cargo": "",
         "braindamage4dsc": "",
         "braindamage3dsc": "",
         "braindamage2dsc": "",
@@ -1170,8 +1166,7 @@
         "keratinboosterdsc": "",
         "impendingdoomdsc": "",
         "horrifieddsc": "",
-        "focuseddsc": "",
-        "cargodsc": ""
+        "focuseddsc": ""
     },
     "other": {
         "fullmouthchars": "",
@@ -1465,7 +1460,6 @@
         "milkytraderdsc": "",
         "dune": "",
         "dunetraderdsc": "",
-        "dunespecialtraderdsc": "",
         "Shelly": "",
         "clicktocontinue": "",
         "favouriteditem": "",
@@ -1487,11 +1481,6 @@
         "char1name": "",
         "char1desc": "",
         "char1quirks": "",
-        "char2name": "",
-        "char2desc": "",
-        "char2quirks": "",
-        "characterunlock": "",
-        "characterunlockdsc": "",
         "presetnormal": "",
         "presetnormaldsc": "",
         "presetrelaxed": "",
@@ -1510,8 +1499,6 @@
         "customsettingsdsc": "",
         "runsetunchipped": "",
         "runsetunchippeddsc": "",
-        "runsetendless": "",
-        "runsetendlessdsc": "",
         "runsetbaselootdensity": "",
         "runsetbaselootdensitydsc": "",
         "runsetlootmultiplier": "",
@@ -1527,8 +1514,6 @@
         "runsetstartingsuppliesnone": "",
         "runsetstartingsupplieslight": "",
         "runsetstartingsuppliesfull": "",
-        "runsetenemystrength": "",
-        "runsetenemystrengthdsc": "",
         "runsetxpgain": "",
         "runsetxpgaindsc": "",
         "runsetmetabolismrate": "",
@@ -1551,8 +1536,6 @@
         "runsetstaminaregendsc": "",
         "runsetattackdamage": "",
         "runsetattackdamagedsc": "",
-        "runsetinsulationmultiplier": "",
-        "runsetinsulationmultiplierdsc": "",
         "runsetstrokes": "",
         "runsetstrokesdsc": "",
         "runsetbraindamagefx": "",
@@ -1872,10 +1855,8 @@
         "basicscourse": "",
         "firstaidcourse": "",
         "craftingcourse": "",
-        "movementcourse": "",
         "firstaidcourseunlock": "",
         "craftingcourseunlock": "",
-        "movementcourseunlock": "",
         "tutorialspecieslock": "",
         "sandbox": "",
         "escapecourse": "",
@@ -2256,11 +2237,9 @@
         "tutclosehealthpanel": "",
         "tutopenhealthpanel": "",
         "tutnice": "",
-        "outdatedwarning": "",
         "surfacebreachnote": "",
         "labenternote": "",
         "biopodnote": "",
-        "biopodnotealt": "",
         "startlorenote": ""
     },
     "character": [
@@ -4026,21 +4005,6 @@
                 "",
                 ""
             ],
-            "endlessloop0": [
-                ""
-            ],
-            "endlessloop1": [
-                ""
-            ],
-            "endlessloop2": [
-                ""
-            ],
-            "endlessloop3": [
-                ""
-            ],
-            "endlessloopdefault": [
-                ""
-            ],
             "vomitresponse": [
                 ""
             ],
@@ -4834,21 +4798,6 @@
                 "",
                 ""
             ],
-            "endlessloop0": [
-                ""
-            ],
-            "endlessloop1": [
-                ""
-            ],
-            "endlessloop2": [
-                ""
-            ],
-            "endlessloop3": [
-                ""
-            ],
-            "endlessloopdefault": [
-                ""
-            ],
             "tradermeetnormal": [
                 "",
                 "",
@@ -5071,564 +5020,6 @@
             ]
         },
         {
-            "seeGravel": [
-                "",
-                "",
-                "",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "eatGood": [
-                "",
-                "",
-                "",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "eatMediocre": [
-                "",
-                "",
-                "",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "eatBad": [
-                "",
-                "",
-                "",
-                ""
-            ],
-            "refuseEat": [
-                "",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "tired": [
-                "",
-                "",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "verytired": [
-                "",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "confused": [
-                "",
-                "",
-                "",
-                "",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "wakeup": [
-                "",
-                "",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "vomit": [
-                "",
-                "",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "vomitblood": [
-                "",
-                "",
-                "",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "full": [
-                "",
-                "",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "hungry": [
-                "",
-                "",
-                "",
-                "",
-                "",
-                "",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "starving": [
-                "",
-                "",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "thirsty": [
-                "",
-                "",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "dehydrated": [
-                "",
-                "",
-                "",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "limbmuscle": [
-                "",
-                "",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "limbinfected": [
-                "",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "limbskin": [
-                "",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "sad": [
-                "",
-                "",
-                "",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "gloomy": [
-                "",
-                "",
-                "",
-                "",
-                "",
-                "",
-                "",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "depressed": [
-                "",
-                "",
-                "",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "miserable": [
-                "",
-                "",
-                "",
-                "",
-                "",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "angeronitem": [
-                ""
-            ],
-            "refuse": [
-                "",
-                "",
-                "",
-                "",
-                "",
-                "",
-                "",
-                "",
-                "",
-                "",
-                "",
-                "",
-                "",
-                "",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "bleeding": [
-                "",
-                "",
-                "",
-                "",
-                "",
-                "",
-                "",
-                "",
-                "",
-                "",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "bleedingheavy": [
-                "",
-                "",
-                "",
-                "",
-                "",
-                "",
-                "",
-                "",
-                "",
-                "",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "steponglass": [
-                "",
-                "",
-                ""
-            ],
-            "seecorpse": [
-                "",
-                "",
-                "",
-                "",
-                "",
-                "",
-                "",
-                "",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "seecorpsedesensitized": [
-                "",
-                "",
-                "",
-                "",
-                "",
-                "",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "seecorpsesuicidal": [
-                "",
-                "",
-                ""
-            ],
-            "cold": [
-                "",
-                "",
-                "",
-                ""
-            ],
-            "warm": [
-                "",
-                "",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "hot": [
-                "",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "exerted": [
-                "",
-                "",
-                "",
-                ""
-            ],
-            "exhausted": [
-                "",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "freezing": [
-                "",
-                "",
-                "",
-                "",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "emaciated": [
-                "",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "obese": [
-                "",
-                "",
-                ""
-            ],
-            "opiated": [
-                "",
-                "",
-                "",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "opiatedsad": [
-                "",
-                "",
-                "",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "opiatewithdrawal": [
-                "",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "cantBreathe": [
-                "",
-                "",
-                ""
-            ],
-            "pain": [
-                "",
-                "",
-                "",
-                "",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "hitgroundhard": [
-                "",
-                "",
-                "",
-                "",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "bigpain": [
-                "",
-                "",
-                "",
-                "",
-                "",
-                "",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "fallscream": [
-                "",
-                "",
-                "",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "hitbycreature": [
-                "",
-                "",
-                "",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "dirty": [
-                "",
-                "",
-                "",
-                "",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "encumbered": [
-                "",
-                "",
-                "",
-                "",
-                "",
-                "",
-                "",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "watchlike": [
-                ""
-            ],
-            "drillend": [
-                "",
-                "",
-                "",
-                ""
-            ],
-            "loud": [
-                "",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "murderregret": [
-                "",
-                "",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "tradeemeet": [
-                "",
-                "",
-                "",
-                "",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "swingresponse": [
-                "",
-                "",
-                "",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "braindamaged": [
-                "",
-                "",
-                "",
-                "",
-                "",
-                "",
-                "",
-                "",
-                "",
-                "",
-                "",
-                "",
-                "",
-                "",
-                "",
-                "",
-                "",
-                "",
-                "",
-                "",
-                "",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "lastmoments": [
-                "",
-                "",
-                "",
-                "",
-                "",
-                "",
-                "",
-                "",
-                "",
-                "",
-                "",
-                "",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "magicheal": [
-                ""
-            ],
-            "selfdestruct": [
-                ""
-            ],
-            "endlessloop0": [
-                ""
-            ],
-            "endlessloop1": [
-                ""
-            ],
-            "endlessloop2": [
-                ""
-            ],
-            "endlessloop3": [
-                ""
-            ],
-            "endlessloopdefault": [
-                ""
-            ],
             "tradermeetnormal": [
                 "",
                 "",
@@ -5850,6 +5241,16 @@
     ],
     "notes": [
         [
+            {
+                "Item1": "",
+                "Item2": "",
+                "Item3": ""
+            },
+            {
+                "Item1": "",
+                "Item2": "",
+                "Item3": ""
+            },
             {
                 "Item1": "",
                 "Item2": "",
