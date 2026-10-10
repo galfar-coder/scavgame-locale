@@ -96,9 +96,9 @@
         "gravbagdsc": "Um contêiner muito experimental que utiliza antigravidade para reduzir o seu peso total. Possui tendências explosivas quando está com pouca energia.",
         "legpouch": "Bolso de perna",
         "legpouchdsc": "Uma pequena bolsa de couro com correias para ir envolta da sua coxa.",
-		"liquidpouch": "Bolsa líquida",
+        "liquidpouch": "Bolsa líquida",
         "liquidpouchdsc": "Uma bolsa flexível feita para guardar líquidos. Tem uma alça para ir na sua barriga. Você pode encher ela com garrafas e vice-versa.",
-		"materialpouch": "Bolsa de materiais",
+        "materialpouch": "Bolsa de materiais",
         "materialpouchdsc": "Uma bolsa grande e resistente que pode ser presa a sua coxa, contendo diversos bolsos menores para guardar material. Possui grande espaço de carga, mas só guarda itens pequenos.",
         "purse": "Bolsa",
         "pursedsc": "Uma bolsa de tamanho médio usada para carregar itens pessoais. Também é estilosa.",
@@ -116,13 +116,13 @@
         "scaffoldingpackdsc": "Uma caixa hiper-comprimida com andaimes, feitos para serem de colocados facilmente. Tem 100 usos.",
         "disinfectant": "Spray antisséptico",
         "disinfectantdsc": "Uma garrafa de spray de 200 ml. Espirra 10 ml cada vez que for usada.",
-		"spraybottle": "Garrafa de spray",
+        "spraybottle": "Garrafa de spray",
         "spraybottledsc": "Uma garrafa de spray de 200 mL. Espirra 10 ml cada vez que for usada. Boa para uso correto de antissépticos.",
         "syringe": "Seringa",
         "syringedsc": "Uma seringa de 100ml, pode injetar fluidos intravenosamente. Feita a mão.",
         "scrapmetal": "Sucata",
         "scrapmetaldsc": "Pedaços de aço de maquinaria destruída. Normalmente usada em criações ou como moeda entre sobreviventes. Pode ser posicionada se estiver acima de 25% durabilidade.",
-		"climbingrope": "Corda de escalada",
+        "climbingrope": "Corda de escalada",
         "climbingropedsc": "Uma longa e dura corda com pontos de fixação. Seria esperto usar ela para descer de precipícios. Tem dois usos.",
         "circuitboard": "Placa de circuitos",
         "circuitboarddsc": "Pedaços de circuitos, arrancados de uma maquina funcional. Ainda solta faíscas ocasionalmente. Usado em criações.",
@@ -150,7 +150,7 @@
         "bananadsc": "Uma fruta amarela gostosa com manchas e pontinhos pretos, aparentemente de outro planeta. Minusculamente radioativa.\nPera, você vai... Ai meu deus, você vai comer a casca...",
         "burger": "Hambúrguer",
         "burgerdsc": "Um lanche genérico grande e suculento. Enche sua barriga e, aparentemente, sua alma também.",
-		"pancake": "Panquecas",
+        "pancake": "Panquecas",
         "pancakedsc": "Uma massa doce e achatada, em camadas, coberta com calda. Pode grudar no seu pelo. Um presente dos deuses...",
         "pizzaslice": "Fatia de pizza",
         "pizzaslicedsc": "Uma fatia de pizza. Muito gostosa e enche tua barriga de calorias. Graças a deus, não tem abacaxi.",
@@ -222,7 +222,7 @@
         "glowplantfruitdsc": "Bioluminescente e incomestível. Tem toxinas meio perigosas dentro, capazes de combater infecções. Seus sucos promovem reações químicas, úteis em algumas criações.",
         "flashlight": "Lanterna",
         "flashlightdsc": "Ilumina uma grande área na sua frente, perdendo bateria ao longo do tempo. Use para mudar de modo.",
-		"emergencylight": "Luz de emergência",
+        "emergencylight": "Luz de emergência",
         "emergencylightdsc": "Uma minúscula lanterna de uso único. É melhor achar uma outra fonte de luz antes que ela acabe. Use para ligar e desligar.",
         "lantern": "Lampião",
         "lanterndsc": "Um simples lampião feito de vidro e madeira, contendo um cristal amarelo brilhante.",
@@ -250,7 +250,7 @@
         "heavydrilldsc": "Uma grande e pesada broca mecânica segurada pelas mâos. Muito eficiente mas não alcança longe.",
         "pickaxe": "Picareta",
         "pickaxedsc": "Uma ferramenta feita especificamente para cavar pelas pedras. É muito boa em remover terreno mas também é lerda. O espírito do Mineirinho está forte nessa coisa.",
-		"titaniumpickaxe": "Picareta de titânio",
+        "titaniumpickaxe": "Picareta de titânio",
         "titaniumpickaxedsc": "Uma ferramenta bem feita de titânio forjado. Muito duradoura e boa em remover terreno, mas ainda ruim no combate.",
         "titaniummultitool": "Multiferramenta de titânio",
         "titaniummultitooldsc": "Uma pequena e firme ferramenta usada para fabricação á mão. Combinação de martelo e faquinha. É leve, e só praticamente útil para fabricação mesmo.\n\n<color=\"red\">Pode ser usada no painel de saúde para amputar membros severamente infectados.",
@@ -264,7 +264,7 @@
         "wooddiggingtooldsc": "Um pedaço afiado de madeira em um graveto. Cava um pouquinho melhor que suas garras.",
         "machete": "Machete",
         "machetedsc": "Uma grande e versátil lâmina de metal. Util durante combates corpo-a-corpo. Você se sente inquieto segurando isso.\n\n<color=\"red\">Pode ser usada no painel de saúde para amputar membros severamente infectados.",
-		"crudecleaver": "Cutelo rudimentar",
+        "crudecleaver": "Cutelo rudimentar",
         "crudecleaverdsc": "Lâmina, cabo e pregos martelados juntos, formando um cutelo improvisado. Útil em criações. Você se sente inquieto segurando isso.\n\n<color=\"red\">Pode ser usada no painel de saúde para amputar membros severamente infectados.",
         "sickle": "Foice de metal",
         "sickledsc": "Uma ferramenta de metal com uma lâmina curvada, feita para colher plantações ou cortar vegetação. Um martelo gostaria dessa coisa.\n\n<color=\"red\">Pode ser usada no painel de saúde para amputar membros severamente infectados.",
@@ -316,7 +316,7 @@
         "bikehelmetdsc": "Uma proteção para o seu crânio, feita para deixar impactos na cabeça minimizados. Diminui feridas na cabeça por queda.",
         "riothelmet": "Capacete de proteção",
         "riothelmetdsc": "Um capacete de alta tecnologia que reduz significativamente a gravidade dos traumatismos cranianos.",
-		"holidayhat": "Chapéu natalino",
+        "holidayhat": "Chapéu natalino",
         "holidayhatdsc": "Tudo que você sabe é que as pessoas usam isso para uma ocasião especial, com muitos \"HOHOHO\"s e presentes. Legal que te enviaram com um, mas por quê?",
         "headlamp": "Lanterna de cabeça",
         "headlampdsc": "Uma pequena lanterna feita para ser amarrada na sua cabeça. Perde bateria com o tempo.",
@@ -398,7 +398,7 @@
         "epdadsc": "Assistente digital pessoal eletrônico, acidentalmente deixado pra trás por um dos seus captores. Se você enfiar uma bateria nele, provavelmente daria para xeretar um pouquinho e aprender algo novo.",
         "bloodcoagulant": "Seringa de procoagulante",
         "bloodcoagulantdsc": "Uma seringa de 100 ml que injeta fluidos por via intravenosa. Dosagem de ~34 ml.",
-		"combatpen": "Autoinjetor de combate",
+        "combatpen": "Autoinjetor de combate",
         "combatpendsc": "Uma caneta injetora com capacidade de 100ml, capaz de injetar seu conteúdo instantaneamente no corpo. Contem um mistura feita para estabilizar baixas e auxiliar em combates.",
         "streptokinase": "Seringa de estreptoquinase",
         "streptokinasedsc": "Uma seringa de 100 ml que injeta fluidos por via intravenosa. Dosagem de ~34 ml.",
@@ -406,7 +406,7 @@
         "chestdraindsc": "Usado para remover fluidos do tórax. Reduz o nível de hemotórax, e é reusável após um tempo. Apenas usável no peitoral.",
         "tweezers": "Pinça",
         "tweezersdsc": "Um simples par de pinças de metal. Pode remover estilhaços de partes de seu corpo sem causar dores ou sujeiras.",
-		"lockpickingkit": "Kit de arrombamento",
+        "lockpickingkit": "Kit de arrombamento",
         "lockpickingkitdsc": "Diversas pequenas ferramentas usadas para abrir com eficácia diversos tipos de tranca. Tenha-a em seu inventario principal ao arrombar trancas para usa-la. Necessário 10 INT para usar, sua eficácia escala com INT.",
         "icepack": "Bolsa de gelo",
         "icepackdsc": "Uma bolsa fria cheia de gel refrigerante que se esfria sozinho. Ajuda no tratamento da saúde múscular, reduz dores e te esfria um pouco. O item se resfria com o tempo.",
@@ -546,7 +546,7 @@
         "autoinjectordsc": "Foi uma maravilha medicinal quando inventado, esse pequeno dispositivo consegue encontrar automaticamente uma veia ou artéria para dispensar a dosagem necessária de algum medicamento. Usado em criações medicinais.",
         "keratinbooster": "Impulsiona-queratina",
         "keratinboosterdsc": "Uma garrafa de 100 mL A 100mL bottle com um rótulo de suplemento para cuidado de unhas. Dosagem de 50 mL.",
-		"drillrepairkit": "Kit de reparos de cavadeira",
+        "drillrepairkit": "Kit de reparos de cavadeira",
         "drillrepairkitdsc": "Um pequeno amontoado de partes de Cavadeira sobressalentes. Você pode usar isso para reparar uma daquelas maquinas.",
         "campfire": "Fogueira",
         "campfiredsc": "Uma fogueira acesa, quentinha e aconchegante, sua temperatura vai aumentar perto dela. Usada como fonte de calor em diversas receitas.",
@@ -560,7 +560,7 @@
         "ryeflourdsc": "Um pó usado na produção de diversos alimentos. Você vai precisar de água e uma fonte de calor para trabalhar com isso.",
         "bread": "Pão",
         "breaddsc": "Um pedaço de pão, feito com farinha e água. É a coisa mais simples que você pode comer, não é repulsiva e vai durar um bom tempo.",
-		"cake": "Um bolo",
+        "cake": "Um bolo",
         "cakedsc": "Uma massa doce assada, com uma cobertura glaceada por cima. Grande, bem recheada e muito saborosa, mesmo se o alto açúcar deixe ela um pouco enjoativa se for consumida demais.",
         "pemmican": "Pemmicano",
         "pemmicandsc": "Uma mistura de gordura, carne seca e frutas. Duradouro e denso em calorias. Não tem muito gosto.",
@@ -568,9 +568,9 @@
         "torchdsc": "Uma fonte de luz extremamente primitiva. Produz uma boa quantidade de luz, mas pode ser apagada por líquidos. Pode reacende-la em qualquer fonte de fogo. ",
         "lighter": "Isqueiro",
         "lighterdsc": "Um isqueiro genérico tipo flip. Pode ser usado em criações que utilizam sua chama, como em fogueiras. É bem durável.",
-		"present": "Presente",
+        "present": "Presente",
         "presentdsc": "Uma caixa decorada de papelão, com algo dentro. Use para desembrulhar.\n\nLoot boxes da vida real!",
-		"woodsandals": "Sandália de madeira",
+        "woodsandals": "Sandália de madeira",
         "woodsandalsdsc": "Um painel de madeira amarrado com corda em seu pé. Nada confortável, mas vai te proteger de coisas afiadas. Se for sortudo, até mais de uma vez.",
         "minibarrel": "Mini-barril",
         "minibarreldsc": "Um pequeno barril industrial feito para armazenar líquidos. Absurdamente pesado e impratico de carregar.  "
@@ -584,7 +584,7 @@
         "mushroomplatformdsc": "Um duro pedaço de cogumelo em que dá para ficar de pé. Não confunda com plastcreto.",
         "bouncecap": "Cogumelo pulante",
         "bouncecapdsc": "Só 1 real.",
-		"climbingropeextended": "Corda de escalada",
+        "climbingropeextended": "Corda de escalada",
         "climbingropeextendeddsc": "Um pedaço extendido de corda forte. Se segure nela para começar a escalar.",
         "glowshroom": "Brilha-gumelo",
         "glowshroomdsc": "Meio radioativa e mais brilhante que o sol.",
@@ -615,7 +615,7 @@
         "bioterminaldsc": "Um terminal de computador com uma placa for baixo dele em que está escrito: \"Insira amostra de DNA humano para continuar...\"",
         "lifepodshower": "Chuveiro de cápsula",
         "lifepodshowerdsc": "Fornece um spray único de espuma de limpeza antisséptica.",
-		"lifepodpump": "Bomba de cápsula",
+        "lifepodpump": "Bomba de cápsula",
         "lifepodpumpdsc": "Bombeia qualquer líquido para fora da cápsula.",
         "BloodCrystal": "Cristal de sangue",
         "BloodCrystaldsc": "Parece estar molhado com um líquido amarelo, jorrando o por tudo em volta.",
@@ -632,7 +632,7 @@
         "glassshardsdsc": "",
         "sandvine": "Vinha arenosa",
         "sandvinedsc": "Uma vinha longa e firme. Você poderia usar elas para escalar, mas talvez seja um pouco difícil se ela for muito fina.",
-		"ladder": "Escada",
+        "ladder": "Escada",
         "ladderdsc": "Um conjunto vertical de degraus usado para subir ou descer. Espero que você saibá como usá-la.",
         "shadecrawler": "Rastejante sombrio",
         "shadecrawlerdsc": "",
@@ -737,7 +737,7 @@
         "soundcannon": "Canhão sonoro",
         "soundcannondsc": "Tampe seus ouvidos se ouvir ele carregando.",
         "trader": "Sobrevivente",
-        "traderdsc": "Mais um sobrevivente sem sorte. Pelo menos ele está respirando.", 
+        "traderdsc": "Mais um sobrevivente sem sorte. Pelo menos ele está respirando.",
         "traderdscdead": "Ele não está mais respirando, graças a você. Parabéns!",
         "bananaplant": "Planta-Banana",
         "bananaplantdsc": "Uma curta, porém larga planta, coloquialmente chamada de \"Planta-Banana\" devido a seu topo amarelo e mole. Muito escorregadio.",
@@ -751,7 +751,7 @@
         "mushroomdropperdsc": "Um fungo que se solta para espalhar esporos em qualquer visitante azarado.",
         "mushroomdropperpayload": "Chapéu de queda-gumelo",
         "mushroomdropperpayloaddsc": "É a parte do cogumelo que entra em queda e te machuca.",
-		"mushroomrope": "Corda de cogumelo",
+        "mushroomrope": "Corda de cogumelo",
         "mushroomropedsc": "Um longo pedaço de fungo. Parece que dá pra escalar com isso. Nojento!",
         "sidestabber": "Faqueia-lado",
         "sidestabberdsc": "Um animal estranho fundido com um fungo. Lança um espinho enorme nas suas presas.",
@@ -763,7 +763,7 @@
         "sawbladedsc": "Serrarma! ...Te traz memórias aterrorizantes.",
         "LoreNote": "Nota escrita",
         "LoreNotedsc": "Deixada aqui por outro sobrevivente.",
-		"ceilingrye": "Trigo de teto",
+        "ceilingrye": "Trigo de teto",
         "ceilingryedsc": "Um estranho tufo de grama com bolsinhas penduradas nas suas pontas. Parecem estar cheias com algum tipo de grão.",
         "grabberplant": "Plantáculo",
         "grabberplantdsc": "Parece que sente o ambiente com a ponta.",
@@ -817,7 +817,7 @@
         "withdrawal2": "Abstinência",
         "withdrawal3": "Abstinência severa",
         "withdrawal4": "Morrendo de abstinência",
-		"stimulated": "Estimulado",
+        "stimulated": "Estimulado",
         "drugoverdose": "Overdose medicinal",
         "bleeding1": "Sangramento pequeno",
         "bleeding2": "Sangramento",
@@ -866,7 +866,7 @@
         "thirst2": "Com sede",
         "thirst3": "Desidratado",
         "thirst4": "Desidratação severa",
-		"overhydrated1": "Hidratado",
+        "overhydrated1": "Hidratado",
         "overhydrated2": "Hiperidratado",
         "overhydrated3": "Intoxicação hídrica",
         "sick1": "Enjoado",
@@ -937,10 +937,9 @@
         "clawdamage1": "Garras cegas",
         "clawdamage2": "Garras quebradas",
         "keratinbooster": "Crescimento impulsionado",
-		"impendingdoom": "Sensação de aniquilação iminente",
+        "impendingdoom": "Sensação de aniquilação iminente",
         "horrified": "HORRORIZADO",
         "focused": "FOCADO",
-		
         "braindamage4dsc": "...",
         "braindamage3dsc": "realidade  ..  parou   fazer   sentido",
         "braindamage2dsc": "Significativamente incapacitado mentalmente. Habilidade de raciocinar e de se autossustentar limitada. Dano cerebral sério presente.",
@@ -971,7 +970,7 @@
         "venom1dsc": "Presença baixa de hemotoxinas no sangue. Algo te mordeu?",
         "venom2dsc": "Hemotoxinas presente na corrente sanguínea, atrapalhando sua coagulação e destruindo células. Cuide os sinais vitais.",
         "venom3dsc": "Grande quantidade de hemotoxina presente no sangue, entupindo sua circulação e destruindo células. Cuide os sinais vitais.",
-        "venom4dsc": "Seu sangue parece mais com chimia do que com algo que deveria te manter vivo.",        
+        "venom4dsc": "Seu sangue parece mais com chimia do que com algo que deveria te manter vivo.",
         "pain1dsc": "Sentindo dores leves.",
         "pain2dsc": "Com dores médias. Tristeza aumentando lentamente.",
         "pain3dsc": "Parcialmente consciente, mente quase completamente tomada pela dor. Tristeza aumentando.",
@@ -985,7 +984,7 @@
         "withdrawal2dsc": "Seu corpo está desesperado por mais uma dose. Vontade de vomitar... A sensação é bem ruim. Tratamento recomendado.",
         "withdrawal3dsc": "Você está lutando para se manter funcional, tremendo, desesperado por qualquer forma de alívio. A sensação é horrível. Tratamento necessário.",
         "withdrawal4dsc": "Seu corpo é incapaz de se sustentar sem o indispensável ópio. Seu coração luta para bombear sangue pelo corpo, cuidado com uma possível fibrilação .",
-		"stimulateddsc": "Estimulantes pesados percorrem sua corrente sanguínea. Você se sente pronto para encarrar qualquer coisa... Por agora.",
+        "stimulateddsc": "Estimulantes pesados percorrem sua corrente sanguínea. Você se sente pronto para encarrar qualquer coisa... Por agora.",
         "drugoverdosedsc": "Você pegou uma overdose de drogas genéricas, não baseadas em opióides. Problemas de saúde prováveis. Parabéns.",
         "bleeding1dsc": "Sangue escorrendo por um ferimento pequeno. Não há perigo imediato.",
         "bleeding2dsc": "Sangramento fluindo de um ferimento médio. Improvavel que seja fatal se estiver saúdavel. Tratamento recomendado.",
@@ -1102,15 +1101,15 @@
         "lowimmunitydsc": "Seu sistema imunológico está severamente enfraquecido, seja pela sujeira, fome, sede, ou outro motivo. Infecções são muito mais perigosas. Cuide-se melhor.",
         "highimmunitydsc": "Seu sistema imunológico está com toda a potência, provavelmente devido aos antibióticos. Infecções são muito menos perigosas e podem até regredir por conta própria se sua imunidade estiver próxima dos 200%.",
         "amputationdsc": "Um de seus membros corporais foi cortado. E é claro, qualquer ação com ele também se foi. Traumatizante!",
-		"clawdamage1dsc": "Suas garras estão desgastadas devido ao uso continuo, dano reduzido. Dê um tempo para suas mãos ou use uma ferramenta.",
+        "clawdamage1dsc": "Suas garras estão desgastadas devido ao uso continuo, dano reduzido. Dê um tempo para suas mãos ou use uma ferramenta.",
         "clawdamage2dsc": "Suas garras estão severamente danificadas pelo uso excessivo, alta redução no dano. Você pode acabar ferindo suas mãos se continuar sem uma ferramenta.",
         "keratinboosterdsc": "Suas garras crescem três vezes mais rápido. (<>)",
-		"impendingdoomdsc": "Por algum motivo, você está sentindo uma intensa sensação de medo. O seu pelo tá extremamente arrepiado. É como se a natureza ao seu redor, de repente, se calou...",
+        "impendingdoomdsc": "Por algum motivo, você está sentindo uma intensa sensação de medo. O seu pelo tá extremamente arrepiado. É como se a natureza ao seu redor, de repente, se calou...",
         "horrifieddsc": "NÃO DA PRA FOCAR. NÃO DA PRA PENSAR DIREITO. NADA MAIS IMPORTA. LUTE POR SUA VIDA OU CORRA!",
         "focuseddsc": "<i>Ambos iremos partir hoje. Um, vai um pouco mais cedo que o outro."
     },
     "other": {
-		"fullmouthchars": "mnoae",
+        "fullmouthchars": "mnoae",
         "underwaterchars": "blug",
         "layertitletutorial": "Terra\nLaboratório de treinamento",
         "layertitle1": "Terras de cascalho",
@@ -1126,7 +1125,7 @@
         "layertitle11": "ASCENSÂO",
         "layertitle12": "SUPERFÍCIE",
         "layertitle13": "CAMINHO PARA A LIBERDADE",
-		"layermodifier0": "(Nevoeiro)",
+        "layermodifier0": "(Nevoeiro)",
         "layermodifier1": "(Quente)",
         "layermodifier2": "(Escaldante)",
         "layermodifier3": "(Frio)",
@@ -1170,7 +1169,7 @@
         "experienceatstart": "Experiência",
         "experienceatend": "Experiência até o próximo nível",
         "currentexperience": "Experiência atual",
-		"missiontime": "Tempo de camada restante",
+        "missiontime": "Tempo de camada restante",
         "air": "Ar",
         "lightrock": "Pedra leve",
         "gravel": "Cascalho",
@@ -1205,13 +1204,13 @@
         "fungus": "Fungo",
         "mushroomcap": "Cogumelo",
         "mushroombody": "Cogumelo",
-		"copper": "Cobre",
+        "copper": "Cobre",
         "ilmenite": "Ilmenita",
         "lrdserum": "Soro de D.R.L.",
         "lrdserumdsc": "Uma mistura especial usada por um dispositivo de ressuscitação localizada. Nada acontece se for injetado fora do D.R.L.",
         "cleanwater": "Agua limpa",
         "cleanwaterdsc": "Agua limpa e filtrada. Gosto vazio de sempre.",
-		"carbonatedwater": "Agua carbonada",
+        "carbonatedwater": "Agua carbonada",
         "carbonatedwaterdsc": "Agua picante. Você gosta da borbulha.",
         "alcohol": "Alcool",
         "alcoholdsc": "Alcool sem marca. Não dá pra digerir, mas dá pra usar para desinfetar lesões.",
@@ -1221,13 +1220,13 @@
         "sodadsc": "Um líquido saboroso e açucarado. Beba com moderação.",
         "lemonade": "Limonada",
         "lemonadedsc": "Líquido açucarado com gosto de limão. Bom sabor.",
-		"urine": "Limonada",
+        "urine": "Limonada",
         "urinedsc": "Líquido açucarado com gosto de limão. Bom sabor, só que tá com cheiro de urina por algum motivo.",
         "bleach": "Alvejante",
         "bleachdsc": "Produto químico usado para remover a cor da fibra, ou desinfetar. Pode ser usado para desinfetar feridas. Beber isso é *totalmente* seguro.",
         "energydrink": "Energético",
         "energydrinkdsc": "Um líquido gostoso e cafeinado para te dar um pouco de estâmina e energia. Um pouco tóxico para suas espécies, beba com moderação.",
-		"sportsdrink": "Bebida esportiva",
+        "sportsdrink": "Bebida esportiva",
         "sportsdrinkdsc": "Um drinque eletrolítico sem cafeína. Eficiente em matar a sede, com gosto bom e vai te dar um pequeno impulso de energia.",
         "oliveoil": "Óleo de oliva",
         "oliveoildsc": "Óleo vegetal extraído de azeitonas esmagadas. Alto em gordura e desagradável de tomar.",
@@ -1243,7 +1242,7 @@
         "orangejuicedsc": "Líquido extraído da fruta de uma laranjeira. Embora seja saudável, você não aprecia muito o gosto.",
         "applejuice": "Suco de maçã",
         "applejuicedsc": "Líquidos de uma fruta macerada. Sabor legal.",
-		"hotsauce": "Molho picante",
+        "hotsauce": "Molho picante",
         "hotsaucedsc": "Condimento feito com pimentas particularmente picantes. Queima sua boca, mas também lhe aquece... de alguma forma.",
         "chloroform": "Clorofórmio",
         "chloroformdsc": "Um composto químico volátil, incolor, denso e de aroma doce, produzido em larga escala como um percursor de refrigerantes e politetrafluoretileno. Seu uso pratico é de desmaiar pessoas.",
@@ -1251,7 +1250,7 @@
         "mercurydsc": "Metal líquido. Dizem que é... Ótimo pra pele? Mas com certeza não para suas funções corporais internas.",
         "ketchup": "Ketchup",
         "ketchupdsc": "Um molho com sabor de tomate, meio azedo. Beber isso vai ser nojento.",
-		"powderedmilk": "Leite em pó",
+        "powderedmilk": "Leite em pó",
         "powderedmilkdsc": "Leite em pó de alta eficiência, desidratado e comprimido. Não é comestível em sua forma normal, mas pode virar leite quando misturado com água quente.",
         "morphine": "Morfina",
         "opium": "Opio",
@@ -1267,13 +1266,13 @@
         "ceftriaxonedsc": "Um antibiótico de terceira geração usado para o tratamento de infecções. Aumenta a imunidade do corpo por algum tempo, mas causa dor.",
         "reliefcream": "Creme de alívio",
         "reliefcreamdsc": "Uma mistura de produtos químicos e drogas. Serve para aliviar a dor e desinfetar lesões.",
-		"woundglue": "Cola cirúrgica",
+        "woundglue": "Cola cirúrgica",
         "woundgluedsc": "Uma substância tipo-cola, antibiótica e hemostática. Luta contra infecções, promove regeneração e é muito efetiva em fechar sangramentos. Pode causar problemas de circulação - use com cuidado.",
         "keratinbooster": "Impulsiona-queratina",
         "keratinboosterdsc": "Um hormônio de crescimento modificado para aumentar a produção de queratina no corpo. Faz suas garras crescerem mais rápido por um tempo.",
-		"highgradestimulant": "Estimulante de grau medicinal",
+        "highgradestimulant": "Estimulante de grau medicinal",
         "highgradestimulantdsc": "Um medicamento estimulante. Capaz de lhe dar impulso forte por um bom tempo, é geralmente seguro de se usar. A overdose comumente leva a fraqueza, com uma ressaca negligenciável. Dosagem de 100ml.",
-		"midgradestimulant": "Estimulante pesado",
+        "midgradestimulant": "Estimulante pesado",
         "midgradestimulantdsc": "Um droga estimulante decentemente refinada. Só funciona intravenosamente. Capaz de lhe dar um impulso decente por pouco tempo, com alguns efeitos colaterais. Sua overdose leva a fraqueza e sangramento interno. Dosagem de 50ml.",
         "lowgradestimulant": "Estimulante suspeito",
         "lowgradestimulantdsc": "Uma droga estimulante nem um pouco pura, de origem duvidosa. Capaz de lhe dar algum impulso, mas sua overdose e subsequente ressaca são extremamente debilitantes. Dosagem desconhecida. Use com cuidado.",
@@ -1293,7 +1292,7 @@
         "blooddsc": "Sangue amarelo. Mesmo que pareça normal para você, é aparentemente um efeito colateral do processo de bioengenharia. Usado para tratar hipovolemia.",
         "redblood": "Sangue vermelho",
         "redblooddsc": "Ainda é sangue. Parece meio estranho, e o cheiro te lembra dos seus captores. Pode tratar hipovolemia, mas seu corpo não vai aceitar bem.",
-		"alienblood": "Sangue alienígena",
+        "alienblood": "Sangue alienígena",
         "alienblooddsc": "Sangue amarelo de um alien. Similar com o seu, quase não é notável a diferença. Não deve causar muitos efeitos colaterais caso você precise usar.",
         "antiserum": "Antissoro",
         "antiserumdsc": "Um soro sanguíneo contendo anticorpos para combater infecções comuns. Aumenta sua imunidade e ajuda contra a sepse. Aumenta um pouco o volume sanguíneo.",
@@ -1316,7 +1315,7 @@
         "mindwipe": "Limpa-mente",
         "mindwipedsc": "Uma droga sintética que completamente limpa o cérebro da maioria de suas memórias e traumas, deixando só uma casca vazia de ser sentiente com instintos de sobrevivência. Normalmente usado em sujeitos que deixaram de funcionar normalmente ou que estão com risco de suicídio. Também pode ajudar em casos de forte dano cerebral. O efeito é permanente sem reabilitação extensiva. Use como um último recurso.",
         "streptokinase": "Estreptoquinase",
-        "streptokinasedsc": "Anticoagulante. Reduz muito a viscosidade do sangue e quebra coágulos sanguíneos.", 
+        "streptokinasedsc": "Anticoagulante. Reduz muito a viscosidade do sangue e quebra coágulos sanguíneos.",
         "sodiumnitroprusside": "Nitroprusseto de sódio",
         "sodiumnitroprussidedsc": "Um medicamento usado para diminuir a pressão sanguínea, útil para evitar uma crise hipertensiva. Só funciona intravenosamente. 10ml por minuto.",
         "vasopressin": "Vasopressina",
@@ -1349,7 +1348,7 @@
         "oildsc": "Alcatrão grosso e escuro. É difícil de se movimentar nele. Infelizmente não dá pra digerir.",
         "sap": "Seiva de árvore",
         "sapdsc": "Uma seiva grossa e gostosa, produzidas pelas árvores dessa selva. Muito açucarada.",
-		"fat": "Gordura",
+        "fat": "Gordura",
         "fatdsc": "Gordura animal adquirida de alguma carne. É comestível, mas nada agradável. Pode ser usado na produção de sabão.",
         "soap": "Sabão",
         "soapdsc": "Sabão feito com gordura animal. Pode ser usado no painel de saúde para limpar sujeira e desinfectar feridas.",
@@ -1389,14 +1388,14 @@
         "CrusBShort": "a minha perna",
         "FootBShort": "a minha pata",
         "experiment": "Experimento",
-		"experimenttraderdsc": "Uma pessoa de estatura baixa com á estranha aparência de um cachorro e rato, com 3 extrusões na parte traseira de sua cabeça, que apesar de seu formato espinhoso, são relativamente macias. A cabeça dele parece ter o formato daquela de um roedor. Apesar de ser um pouco nervoso socialmente, eles não possuem nenhuma característica peculiar no contexto de trocas. Não é muito difícil deles confiarem em você para um abraço.",
+        "experimenttraderdsc": "Uma pessoa de estatura baixa com á estranha aparência de um cachorro e rato, com 3 extrusões na parte traseira de sua cabeça, que apesar de seu formato espinhoso, são relativamente macias. A cabeça dele parece ter o formato daquela de um roedor. Apesar de ser um pouco nervoso socialmente, eles não possuem nenhuma característica peculiar no contexto de trocas. Não é muito difícil deles confiarem em você para um abraço.",
         "milky": "Leitoso",
         "milkytraderdsc": "Uma criatura branca e peluda, de estatura relativamente baixa quando comparada a sua, com um focinho bem plano e curto e chifres brancos em sua cabeça. Julgando pelo par de barbatanas presentes em suas costas, eles provavelmente devem possuir alguma característica aquática. Eles provavelmente vão estar carregado com si alguma arma para compensar as suas frágeis características físicas. Eles parecem ser bem inteligentes e um pouco arrogantes. Eles não são muito afetuosos, então talvez seja mais difícil conseguir um abraço deles.",
         "dune": "Duno",
         "dunetraderdsc": "Alto, largo e amedrontador, com mais músculos do que cérebro. Os corpos deles são recobertos por barbatanas de estranha aparência. Possui 6 extrusões, de formato espinhoso, na parte lateral de sua cabeça e uma boca assustadoramente enorme, recoberta por grandes dentes afiados em todos os cantos. Eles parecem ter brânquias ao redor de seu tronco. Apesar de não serem diretamente agressivos, eles provavelmente pensam somente em comer. Não devem se importar muito com o que você os oferecer de bugiganga; Você vai ter que pensar em outras maneiras de ganhar o respeito deles.",
         "Shelly": "SHEEEEELLLLYYYY!!!!!!",
         "clicktocontinue": "Clique para continuar...\nESC para pular",
-		"favouriteditem": "Itens marcados como favorito não serão usados em criações.",
+        "favouriteditem": "Itens marcados como favorito não serão usados em criações.",
         "mainhand": "Mão principal",
         "secondaryhand": "Mão secundária",
         "mouth": "Boca",
@@ -1404,7 +1403,7 @@
         "middleback": "Costas centrais",
         "lowerback": "Costas inferiores",
         "startrun": "Começar",
-		"startrundsc": "Desça para as profundezas das cavernas.",
+        "startrundsc": "Desça para as profundezas das cavernas.",
         "presetnormal": "Normal",
         "presetnormaldsc": "A experiencia padrão. Você será punido por erros. Conhecimento e noção situacional são recompensados. Tempo é essencial. Sua morte é praticamente garantida.",
         "presetrelaxed": "Relaxante",
@@ -1509,7 +1508,6 @@
         "runsetminigamehandshakedsc": "O quanto sua mão treme ao fazer minigames enquanto com dor",
         "runsetdebugworld": "Mundo debug",
         "runsetdebugworlddsc": "Se ativado, cria um mundo muito menor para acelerar sua geração. Não desenvolvido para uma jogatina normal",
-
         "tutorialwarning": "<size=150%>Antes de ir...\n\n<size=100%>Você não passou pelo percurso básico ainda.\nTem certeza que você quer ir completamente cego?\n\n\n\nSeu fim não é nada menos que garantido.",
         "tutorialwarningyes": "Fazer o treinamento básico",
         "tutorialwarningno": "Sei o que estou fazendo!",
@@ -1616,7 +1614,7 @@
         "containermaxweight": "Capacidade",
         "containermaxweightperitem": "Peso maximo por item",
         "conditionloss": "% deterioração por minuto",
-		"decayonlyif": "somente se ",
+        "decayonlyif": "somente se ",
         "decayonlyworn": "estiver sendo vestido(a)",
         "decayonlymoving": "você estiver se mexendo",
         "decayonlyhasitems": "estiver com itens dentro",
@@ -1637,13 +1635,13 @@
         "itemwearableprotection": "Proteção:",
         "itemwearableisolation": "Insulamento:",
         "itemvalue": "Valor de troca: ",
-		"itemqualities": "Possui as qualidades: ",
+        "itemqualities": "Possui as qualidades: ",
         "you": "Você",
         "damagereduction": "Redução de dano: ",
         "bodyinsulation": "Insulação corporal: ",
         "youdescription": "<sprite index=20>Inventário",
         "wet": "(Molhado)",
-		"missionhurry": "ANDA LOGO",
+        "missionhurry": "ANDA LOGO",
         "bandageMinigameGuide": "Clique e arraste a bandagem ao redor do membro para enfaixar.\nVocê não precisa usar toda a bandagem.",
         "syringeMinigameGuide": "Empurre a ponta da seringa para injetar. Lembre-se de verificar o rótulo de dosagem.",
         "lockpickMinigameGuide": "Clique em qualquer parte do arco para tentar arrombar a fechadura.\nQuanto mais perto do ponto certo, mais a tranca vai girar.\nCuidado para não quebrar suas garras.",
@@ -1654,7 +1652,7 @@
         "aedMinigameGuide": "Siga as instruções mostradas.",
         "manualDefibMinigameGuide": "Equilibre a carga elétrica proporcional ao quão grave for a fibrilação do coração, carregue e então de o choque. Repita se necessário. \nA média recomendada de carga (POW.EST) fica mais precisa quanto maior a INT.",
         "handCrankMinigameGuide": "Agarre a alavaca e gire-a para carregar.",
- 		"aedstate0": "Posicione os eletrodos nos locais indicados.",
+        "aedstate0": "Posicione os eletrodos nos locais indicados.",
         "aedstate1": "Analisando pulso",
         "aedstate2": "Choque recomendado.\nPressione o botão para administrar choque.",
         "aedstate3": "Carregando",
@@ -1665,7 +1663,7 @@
         "saveexitdsc": "Salvar progresso e fazer uma pausa.\nA expedição será retomada no começo da próxima camada.",
         "savecontinue": "Continuar",
         "savecontinuedsc": "Continue sua expedição.\nVocê só pode salvar e retomar a expedição durante transições de camada. Morrer ou sair do jogo durante uma camada apagará o progresso.",
-		"savecontinuemenudsc": "Continue uma expedição em andamento.\n\nAVISO: Morrer ou sair durante o progresso da camada apagará seu progresso.",
+        "savecontinuemenudsc": "Continue uma expedição em andamento.\n\nAVISO: Morrer ou sair durante o progresso da camada apagará seu progresso.",
         "carryingtip": "Sobrecarga",
         "tradergivebuttontip": "Arraste items aqui para entregar ao negociador",
         "drainliquid": "Drenar líquido",
@@ -1695,9 +1693,9 @@
         "rechargingstationcheer": "Aproveite umas melodias enquanto espera!",
         "discretionwarning": "Este jogo contêm representações de violência, auto-mutilação e miséria generalizada\n<color=\"grey\">Clique esquerdo para continuar",
         "healthpaneltip": "Painel de saúde (R)",
-		"craftrepair": "Consertar ",
+        "craftrepair": "Consertar ",
         "crafttipname": "Criar (C)",
-		"crafttipdsc": "Abre/Fecha o menu de fabricação\n\nArraste um item aqui para ver no que é usado",
+        "crafttipdsc": "Abre/Fecha o menu de fabricação\n\nArraste um item aqui para ver no que é usado",
         "craftsearchrecipes": "Pesquisar receitas...",
         "craftingredients": "Ingredientes",
         "craftingredientsdsc": "Items marcados como favorito (<>) não seram usados na fabricação de itens",
@@ -1746,11 +1744,11 @@
         "cqheatsource": "Fonte de calor",
         "cqflammable": "Inflamável",
         "cqflour": "Farinha",
-		"cqfat": "Gordura",
+        "cqfat": "Gordura",
         "cqcondiment": "Tempero",
         "handswitchtip": "Trocar de mão principal",
         "handswitchdsc": "Troque sua mão principal entre Esquerda/Direita\nUse isso para cavar com sua outra mão se a principal estiver quebrada\nSeu braço esquerdo é um pouco mais fraco do que o direito",
-		"handswitchwarning": "<color=\"orange\">AVISO\n</color>Você tem menos destreza com sua mão esquerda",
+        "handswitchwarning": "<color=\"orange\">AVISO\n</color>Você tem menos destreza com sua mão esquerda",
         "speed1": "Normal",
         "speed2": "Rápido",
         "speed3": "Super rápido",
@@ -1771,11 +1769,11 @@
         "sleepquality0": "<color=\"red\">Péssimo</color>",
         "togglehealthmode": "Alterar visão de ferimentos/armaduras",
         "selecttrainingcourse": "Selecione o treinamento desejado.",
-        "start": "Começar", 
+        "start": "Começar",
         "quit": "Sair",
         "back": "Voltar",
         "basicscourse": "Treinamento Básico ",
-        "firstaidcourse": "Curso de Primeiros Socorros", 
+        "firstaidcourse": "Curso de Primeiros Socorros",
         "craftingcourse": "Curso de Criações",
         "firstaidcourseunlock": "Alcance a segunda camada para desbloquear ",
         "craftingcourseunlock": "Alcance a terceira camada para desbloquear ",
@@ -1784,7 +1782,7 @@
         "escapecourse1": "Você aparenta estar tentando fugir. Por favor mantenha a calma enquanto nossos seguranças vem lhe ajudar.",
         "escapecourse2": "Agradecemos sua cooperação.",
         "tutorial": "Tutorial",
-		"mp3audio": "Arquivos de áudio armazenados no dispositivo",
+        "mp3audio": "Arquivos de áudio armazenados no dispositivo",
         "categorymedical": "Medicinal",
         "categorydrug": "Drogas",
         "categorycontainer": "Contêineres",
@@ -1851,12 +1849,12 @@
         "alertitemblocked": "Item bloqueado por parede!",
         "alertitemfar": "Item muito distante!",
         "alertpickupwearable": "Vestíveis não podem ser segurados (Ao invés disso, vista/guarde eles)",
-		"alertalreadywearing": "<1> não caberá na <2>!",
+        "alertalreadywearing": "<1> não caberá na <2>!",
         "alertcontainerstacking": "Você só pode colocar contêiners vazios dentro de outros!",
         "alertcontainerstackingalt": "Não dá pra usar o contêiner, porque ele está dentro de outro!",
         "alerttoounhappy": "Deprimido demais para usar medicamentos não-opióides!",
         "alertlimbmissing": "<1> está faltando, deixando <2> inutilizável!",
-		"alertsellcontainer": "Esvazie o contêiner antes de vender!",
+        "alertsellcontainer": "Esvazie o contêiner antes de vender!",
         "insertsample": "Inserir amostra",
         "tradeinteract": "Negociar",
         "read": "Ler",
@@ -1864,10 +1862,10 @@
         "useterminal": "Abrir console",
         "insertscrap": "Inserir sucata",
         "open": "Abrir",
-		"insertbattery": "Inserir bateria da mão principal",
+        "insertbattery": "Inserir bateria da mão principal",
         "lockpick": "Arrombar",
         "learnedrecipe": "Aprendeu receita para r1.\nGanhou <color=\"green\">25 XP de INT.",
-		"epdalearn": "Ganhou <color=\"green\">35 exp de INT.",
+        "epdalearn": "Ganhou <color=\"green\">35 exp de INT.",
         "hasbattery": "Com bateria (<>)\n<sprite index=17 tint=1>Utilize uma ferramenta para remover a bateria.",
         "nobattery": "Sem bateria (Max. <>)",
         "unknownobject": "Algo...",
@@ -1911,15 +1909,15 @@
         "yourinventory": "Seu inventário",
         "haggle": "Pechinchar",
         "haggledsc": "...Para tentar negociar preços menores. Pode afetar positivamente ou negativamente sua reputação com ele. Experiência para INT caso conseguir.",
-		"haggledune": "Mordida amigável",
+        "haggledune": "Mordida amigável",
         "haggledunedsc": "Esse botão deixará o sobrevivente morder uma partezinha das extremidades do seu corpo em troca de reputação e valor. Ele provavelmente vai ser cuidadoso o bastante para não causar danos letais.",
         "hug": "Abraçar",
-		"hugdsc": "...Para melhorar essa horrível primeira impressão... Ou só assustar eles de vez.",
+        "hugdsc": "...Para melhorar essa horrível primeira impressão... Ou só assustar eles de vez.",
         "threaten": "Ameaçar",
-		"threatendsc": "...O sobrevivente para roubar alguns itens. Pode dar MUITA merda.",
+        "threatendsc": "...O sobrevivente para roubar alguns itens. Pode dar MUITA merda.",
         "rest": "Sonecar",
-		"restdsc": "...Para construir afeto com o sobrevivente e dormir melhor. Condições regulares para dormir aplicadas.",
-		"tradermove": "Pedir para mover-se",
+        "restdsc": "...Para construir afeto com o sobrevivente e dormir melhor. Condições regulares para dormir aplicadas.",
+        "tradermove": "Pedir para mover-se",
         "tradermovedsc": "...Um pouco pro lado, caso esteja bloqueando algo importante.",
         "exit": "Sair",
         "free": "<color=\"orange\">GRÁTIS!",
@@ -1971,33 +1969,33 @@
         "healthchipradalert3": "ANDA\nLOGO",
         "tutbasic1": "Bem-vindo a última revisão do curso de treinamento.",
         "tutbasic2": "Vamos passar por todo o básico que você precisa saber para participar do próximo experimento.",
-        "tutbasic3": "Por favor caminhe em direção ao Braço Mecânico de Treinamento. [A]",        
-        "tutbasic4": "Novamente. [D]",        
-        "tutbasic5": "Você consegue caminhar. Impressionante!",        
-        "tutbasic6": "[ESPAÇO] para pular. Segure para saltos maiores. Você também consegue pular das paredes.",         
-        "tutbasic7": "Vá ao Braço Mecânico de Treinamento.",        
-        "tutbasic8": "Que coisinha ágil você é, hein?",        
-        "tutbasic9": "Agora, vamos ver como você segura e usa as coisas ao seu redor",        
-        "tutbasic10": "Interação com itens são feitas com [CLIQUE DIREITO]. Clique em si mesmo para acessar seu inventário, clique fora para fecha-lo.",        
-        "tutbasic11": "Aqui, algo pra você brincar. [CLIQUE DIREITO] segure e arraste até você mesmo, então solte em um slot para pegar. Você pode segurar [CONTROL] para ver marca dos itens, melhorando sua visibilidade.",        
-        "tutbasic12": "Bom. Você pode usar o item direto do inventário. Arraste-o para o centro para usar e continuarmos.",        
-        "tutbasic13": "Tem um gosto ótimo, não tem? Você deveria comer tudo agora.",        
-        "tutbasic13fail": "Eu queria que você pegasse, não comesse... Credo, foi tudo? De uma vez só..?",        
-        "tutbasic14": "Você TAVA com FOME...",        
-        "tutbasic15": "Vamos tentar outra coisa. Aqui vai outra coisa pra você brincar.",        
-        "tutbasic16": "Você tem seis slots principais para suas coisas. Duas mãos, uma boca e três nas suas costas.",        
-        "tutbasic17": "Agarre esse com suas mãos.",        
-        "tutbasic18": "Certas ferramentas são usáveis na sua \"Mão principal\". Pegue o rastilho com ela e sacuda ele com [CLIQUE ESQUERDO].",        
-        "tutbasic19": "Você tá se dedicando na luta contra os fantasmas... Muito bem!",        
-        "tutbasic20": "Você pode trocar rapidamente os itens entre suas mãos com [Q]. Tente!",        
-        "tutbasic21": "Conseguir interagir com coisas distantes é algo muito útil. Segure [T] para lançar o que estiver em sua mão principal. Mire no alvo que fizemos!",        
-        "tutbasic22": "Precisão maravilhosa!",        
-        "tutbasic23": "Pegue o rastilho de volta.",        
-        "tutbasic24": "Você pode cavar por objetos ao atacar. Isso vai te cansar rápido, mas pode ser útil se realizado com moderação.",        
-        "tutbasic25": "Cave até o outro lado. Segure [S] para agachar.",        
-        "tutbasic26": "Algumas condições como dor ou exaustão levarão um tempo para sumir. Acelere esse processo e o tempo com [1-3].",        
-        "tutbasic27": "Descansado.",        
-        "tutbasic28": "Vamos passar pelo básico em primeiros socorros. Por favor, não se mexa.",        
+        "tutbasic3": "Por favor caminhe em direção ao Braço Mecânico de Treinamento. [A]",
+        "tutbasic4": "Novamente. [D]",
+        "tutbasic5": "Você consegue caminhar. Impressionante!",
+        "tutbasic6": "[ESPAÇO] para pular. Segure para saltos maiores. Você também consegue pular das paredes.",
+        "tutbasic7": "Vá ao Braço Mecânico de Treinamento.",
+        "tutbasic8": "Que coisinha ágil você é, hein?",
+        "tutbasic9": "Agora, vamos ver como você segura e usa as coisas ao seu redor",
+        "tutbasic10": "Interação com itens são feitas com [CLIQUE DIREITO]. Clique em si mesmo para acessar seu inventário, clique fora para fecha-lo.",
+        "tutbasic11": "Aqui, algo pra você brincar. [CLIQUE DIREITO] segure e arraste até você mesmo, então solte em um slot para pegar. Você pode segurar [CONTROL] para ver marca dos itens, melhorando sua visibilidade.",
+        "tutbasic12": "Bom. Você pode usar o item direto do inventário. Arraste-o para o centro para usar e continuarmos.",
+        "tutbasic13": "Tem um gosto ótimo, não tem? Você deveria comer tudo agora.",
+        "tutbasic13fail": "Eu queria que você pegasse, não comesse... Credo, foi tudo? De uma vez só..?",
+        "tutbasic14": "Você TAVA com FOME...",
+        "tutbasic15": "Vamos tentar outra coisa. Aqui vai outra coisa pra você brincar.",
+        "tutbasic16": "Você tem seis slots principais para suas coisas. Duas mãos, uma boca e três nas suas costas.",
+        "tutbasic17": "Agarre esse com suas mãos.",
+        "tutbasic18": "Certas ferramentas são usáveis na sua \"Mão principal\". Pegue o rastilho com ela e sacuda ele com [CLIQUE ESQUERDO].",
+        "tutbasic19": "Você tá se dedicando na luta contra os fantasmas... Muito bem!",
+        "tutbasic20": "Você pode trocar rapidamente os itens entre suas mãos com [Q]. Tente!",
+        "tutbasic21": "Conseguir interagir com coisas distantes é algo muito útil. Segure [T] para lançar o que estiver em sua mão principal. Mire no alvo que fizemos!",
+        "tutbasic22": "Precisão maravilhosa!",
+        "tutbasic23": "Pegue o rastilho de volta.",
+        "tutbasic24": "Você pode cavar por objetos ao atacar. Isso vai te cansar rápido, mas pode ser útil se realizado com moderação.",
+        "tutbasic25": "Cave até o outro lado. Segure [S] para agachar.",
+        "tutbasic26": "Algumas condições como dor ou exaustão levarão um tempo para sumir. Acelere esse processo e o tempo com [1-3].",
+        "tutbasic27": "Descansado.",
+        "tutbasic28": "Vamos passar pelo básico em primeiros socorros. Por favor, não se mexa.",
         "tutbasic29": "Ai! Seu braço tá ferido e sangrando! Dê uma olhada nele, abra o painel de saúde no botão de coração ou com [R].",
         "tutbasic30": "Passe sobre o membro ferido para ver mais detalhes.",
         "tutbasic31": "Uma perfuração deveras grande. Boas notícias - você vai consertar isso!",
@@ -3477,7 +3475,7 @@
                 "Ugh...",
                 "Sentindo dor...",
                 "<limb> tá doendo...",
-				"Aii! <limb>!",
+                "Aii! <limb>!",
                 "Droga d<limb>!!",
                 "<limb> tá sofrendo...",
                 "<limb>... tá uma bosta...",
@@ -3490,10 +3488,10 @@
                 "Droga... <limb>!",
                 "<limb>... Porra..!",
                 "Droga, <limb> só dói...",
-				"<limb> só dói... Sacanagem...",
+                "<limb> só dói... Sacanagem...",
                 "Tem algo muito errado com <limb>.",
                 "Preciso de algo pra aliviar a dor...",
-				"Vamos com calma... <limb> tá gritando de dor.",
+                "Vamos com calma... <limb> tá gritando de dor.",
                 "Porra- Pera... <limb>... Awh...",
                 "<limb>... doendo... bastante..."
             ],
@@ -3754,10 +3752,10 @@
                 "Isso! Valeu!",
                 "Legal!"
             ],
-			"tradergiveitemrefuse": [
+            "tradergiveitemrefuse": [
                 "Certo... Isso é o suficiente por hoje, minha bolsa ta cheia.",
                 "Ei, chega de presentes! Eu não quero dar todo meu estoque pra você."
-			],
+            ],
             "traderbuy": [
                 "Aqui está. Bom proveito!",
                 "Tudo certo! Tome o que você escolheu. Boa sorte ai fora.",
@@ -3772,7 +3770,7 @@
                 "Entregue mais algumas coisas primeiro.",
                 "Pague primeiro!"
             ],
-			 "traderbuyfailmaxvalue": [
+            "traderbuyfailmaxvalue": [
                 "Desculpe, isso é tudo que estou disposto a dar agora.",
                 "To sem estoque! Sinto muito! Você ja pegou tanta coisa..."
             ],
@@ -3835,7 +3833,7 @@
                 "Úiii, que rombo. Se achar uma bandagem comigo, pode levar! Eu num lembro se eu tenho uma...",
                 "Aahhh, você não parece estar muito bem... Quer saber, pode pegar uma bandagem de graça se você achar."
             ],
-			"tradermove": [
+            "tradermove": [
                 "Ah, me desculpe. Aqui."
             ],
             "tradermovefail": [
@@ -4014,7 +4012,7 @@
                 "É um prazer.",
                 "Farei bom uso disto."
             ],
-			"tradergiveitemrefuse": [
+            "tradergiveitemrefuse": [
                 "Já chega por enquanto. Eu não tenho mais espaço para essas bugigangas.",
                 "Você já pode para de me dar coisas, seria melhor se eu não desse tudo que tenho comigo."
             ],
@@ -4057,7 +4055,7 @@
                 "Você está brincando.",
                 "Que insultante."
             ],
-			"traderbuyfailmaxvalue": [
+            "traderbuyfailmaxvalue": [
                 "Chega de trocas por hoje. Você já levou muita coisa.",
                 "Eu não desejo trocar todas as nossas posessões. Vamos parar por hoje."
             ],
@@ -4128,7 +4126,7 @@
                 "Por que caralhos você faria isso!? Se manda! Eu precisava da luz!",
                 "Por que você tá destruindo a minha cápsula!? Vai EMBORA! SOME!"
             ],
-			"tradermove": [
+            "tradermove": [
                 "Certo."
             ],
             "tradermovefail": [
@@ -4183,12 +4181,12 @@
                 "Faria mal deixar estes pertences pesados comigo?",
                 "Quão provocante que você é."
             ],
-                "dyingresponse": [
+            "dyingresponse": [
                 "Não acho que RCP vai te ajudar nessa situação.",
                 "Sério? Morrendo, no MEU chão?",
                 "Acha mesmo que todo esse pânico vai melhor sua situação?"
-			]
-		},
+            ]
+        },
         {
             "tradermeetnormal": [
                 "Mmm... Oo-lá....",
@@ -4348,7 +4346,7 @@
                 "RUIM! Grrrr... Amigo ru-im... Ruim! S-aia!",
                 "Duno NÃO VÊ! PÉSS-IMO AMIGO! SS-AI... FORA!",
                 "Amig-o ro-uba! Não amigo..."
-			],
+            ],
             "tradermove": [
                 "Du-no... Mo-ve..."
             ],
@@ -4396,17 +4394,17 @@
                 "A-migo fe-rido..?",
                 "Du-no ent-ende... Du-no t-ambém tem dor! Ami-go bem?"
             ],
-                "dirtyresponse": [
+            "dirtyresponse": [
                 "O que é su-jo?"
             ],
             "encumberedresponse": [
                 "Pos-so pegar coisas de a-migo?",
                 "Du-no pode a-liviar peso!"
             ],
-                "dyingresponse": [
+            "dyingresponse": [
                 "O que erra-do com -ami-go..?",
                 "Du-no não saber como a-judar..."
-			]
+            ]
         }
     ],
     "notes": [
@@ -4491,7 +4489,7 @@
                 "Item2": "",
                 "Item3": "experiment"
             },
-			{
+            {
                 "Item1": "Para qualquer um que encontrar isto, ele podem e VÃO controlar você. Sem um único aviso prévio, eu escutei um alarme alto vindo de dentro de mim, eu apenas podia ver a mensagem \"PROFUNDIDADE INSATISFATÓRIA\" com flashes vermelhos materializando nos cantos da minha visão.\n\nComecei a correr, em pânico, sem entender por que fariam aquilo. Só depois que entrei em outra região dessa rede de cavernas é que parou. Eles sabem quanto tempo você passa aqui, sabem que você estará com medo e querem que você morra. Isso tudo é um genocídio em massa.",
                 "Item2": "",
                 "Item3": "milky"
@@ -4679,7 +4677,7 @@
                 "Item1": "Não pareço estar nem perto de sair desse inferno rochoso e já sinto a morte se aproximando.\nA única coisa que eles me deram foi uma lanterna toda fudida que não durou nem uma hora; nenhum equipamento de segurança para lidar com todas essas quedas que tenho tomado.\n\nPUTA merda, eu me sinto como uma bolinha de uma daquelas máquinas de aposta que via os humanos jogarem!\n\nAcredito estar morrendo lentamente, desde a última queda minha cabeça parece estar mais pesada que o normal, me sinto cansado; mas também sinto que se eu cair no sono acabarei morrendo.\n\nDeus me livre.\nQUE MERDA.\nEu não quero morrer, não assim... \nSe bem que... Qual é o ponto disso tudo?\nEu nem mesmo tenho um nome, só um número...\nDroga...",
                 "Item2": "",
                 "Item3": "milky"
-			}
+            }
         ],
         [
             {
@@ -4687,7 +4685,7 @@
                 "Item2": "",
                 "Item3": "experiment"
             },
-			{
+            {
                 "Item1": "eu nao aguento mais. por que. \ntodos morreram\nnao da. \neu quero que isso pare\nnao da\neu quero liberdade\nporque\neu nao consigo. eu nao quero ver mais nada disso. eu ja vi coisas ruins demais. to tao exausto. \nminha perna ta fudida. explodida por uma mina\nminha mao, a direita, também ta me matando de dor\neu quero acabar com tudo\ntudo é miséria\neu nao aguento mais\ndaqui a pouco vou arrancar minha arteria e virar outro corpo pra você ver - assumindo que eles já nao tenham me devorado ate você chegar.\n\nobrigado por tudo. adeus",
                 "Item2": "",
                 "Item3": "experiment"
@@ -4736,7 +4734,7 @@
         [
             {
                 "Item1": "Parece haver uma grande quantidade de resíduos radioativos nesta área. Embora isso torne difícil nossa exploração, devemos lembrar que podemos receber pequenas doses de radiação ionizante sem muitos problemas, desde que a exposição não dure muito tempo. Ouvi falarem sobre já estarmos cheios de câncer.",
-				"Item2": "",
+                "Item2": "",
                 "Item3": "milky"
             },
             {
@@ -4807,7 +4805,7 @@
                 "Item1": "duno frio. calor d cavar nao quente suficiente. duno comer amigo peludo. devorado cru. duno tem pelo. pelo quente para duno. duno cheio e quntinho. duno feliz nao frio",
                 "Item2": "",
                 "Item3": "dune"
-			},
+            },
             {
                 "Item1": "é frio aqui embaixo, preciso ficar constantemente procurando capsulas para me aquecer... tambem tenho encontrado um tipo de forno pequeno e barulhento que emite calor, me aqueço neles com cuidado porque me deixam enjoado. Fico so o suficiente para me manter andando. se eu fosse voce ficaria atento a qualquer barulho diferente enquanto descanço. eu escuto coisas cavando ao meu redor.",
                 "Item2": "",
@@ -4819,8 +4817,8 @@
                 "Item1": "É estranho como chove aqui. Eu nunca tinha visto chuva de verdade antes... É até bonita, mesmo sendo meio suja. Ainda me pergunto como é possível haver uma concentração tão alta de água aqui embaixo. Talvez a água da calota de gelo acima esteja pingando até aqui?",
                 "Item2": "",
                 "Item3": "milky"
-			},
-			{
+            },
+            {
                 "Item1": "achei umas coisas quicantes estranhas. elas me mandaram voando... mas consegui manter os pes apontados ao chao. e bem divertido. talvez seja ate util as vezes. meio perigoso talvez, mas o que nao e perigoso por aqui.",
                 "Item2": "",
                 "Item3": "experiment"
@@ -4928,7 +4926,7 @@
                 "Item3": "experiment"
             }
         ]
-	],
+    ],
     "pdaNotes": [
         {
             "Item1": "[RELÁTORIO BIOMÉTRICO - 25##-11-19-18-49-58-4587]\n<>\nCLASSE DA ENTIDADE: Biológica\nSUBCLASSE DA ENTIDADE: Sawiano\nNOME DA ENTIDADE: Experimento\n<>\n[CONTEÚDOS]\n\nA versão biológica estável do nosso projeto mais recente está pronta.\nAparenta que, mentalmente, não há e nunca mais vai ter algo sobrando do nosso voluntário humano original, sem falar dos outros sujeitos.\nApesar disso, ele parece estar aprendendo rápido, e não está retaliando.\n<>\nA combinação de DNA causou o Experimento à ser consideralvemente menor em estatura do que uma pessoa humana, e faltar em gordura e massa muscular.\nApesar disso, sua densidade óssea e muscular é muito maior. Isto presumidamente resultará no espécime sendo resiliente a várias formas de trauma físico... E dificultará natação para ele.\nEle possui três protuberâncias na parte posterior do crânio, de forma semelhante à cartilagem de orelha. De alguma forma, possui uma estrutura auricular semelhante à de uma ave - devia estar em algum lugar no DNA que manipulamos.\nPossui pelos finos e carne meio rosada amarelada, como visto em ferimentos e no interior da boca.\nSuas mãos são algum tipo de combinação entre a de um canino e de um homosapien. Sei que um dos meus colegas vai gostar das patas-\nDe alguma forma, os olhos bioluminescentes dos nossos protótipos anteriores desta espécie permaneceram. Nós ainda não determinamos os exatos efeitos que isto tem em sua visão.\n<>\nLogo iremos clonar este espécime 30 vezes para conduzir testes destrutivos nos clones. Deixaremos alguns para reproduzirem naturalmente, para economizar recursos.\n\n[FIM]",
@@ -5112,5 +5110,5 @@
         "Você é resiliente demais pro seu próprio bem.",
         "Ei, estávamos quase chegando na melhor parte!",
         "Não se conforte."
-    ] 
+    ]
 }

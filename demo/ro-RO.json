@@ -940,7 +940,6 @@
         "impendingdoom": "Senzație de catastrofă iminentă",
         "horrified": "ÎNGROZIT",
         "focused": "CONCENTRAT",
-
         "braindamage4dsc": "...",
         "braindamage3dsc": "realitatea  ..  încetează   să mai aibă   sens",
         "braindamage2dsc": "Deficit mental sever. Capacitatea de a gândi inteligent și de a se întreține singur este limitată. Prezența unor leziuni cerebrale grave.",
@@ -1509,7 +1508,6 @@
         "runsetminigamehandshakedsc": "Cât de mult îți tremură mâna în minijocuri în timp ce ai dureri",
         "runsetdebugworld": "Lume de depanare",
         "runsetdebugworlddsc": "Dacă e activat, face ca lumea să fie cu mult mai mică pentru a accelera generarea. Nu e conceput pentru moduri normale de joc",
-
         "tutorialwarning": "<size=150%>Înainte să pleci...\n\n<size=100%>Încă nu ai urmat cursul de bază.\nEști sigur că vrei să intri complet orb?\n\n\n\nEșecul tău este aproape garantat.",
         "tutorialwarningyes": "Fă pregătirea de bază",
         "tutorialwarningno": "Știu ce fac!",

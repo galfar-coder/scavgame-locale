@@ -940,7 +940,6 @@
         "impendingdoom": "불길한 예감",
         "horrified": "공포",
         "focused": "몰두",
-
         "braindamage4dsc": "...",
         "braindamage3dsc": "현 실 감각이점... 점멀어진 다.",
         "braindamage2dsc": "심한 정신적 장애. 사고 능력과 자립성이 결핍된다. 뇌 손상이 심각함.",
@@ -1509,7 +1508,6 @@
         "runsetminigamehandshakedsc": "통증을 겪고 있을 때 미니 게임에서 얼마나 손이 떨리는지 정합니다",
         "runsetdebugworld": "디버그 월드",
         "runsetdebugworlddsc": "이걸 켜면 월드가 훨씬 작게 만들어 생성 속도가 빨라집니다. 일반적인 플레이에 사용하도록 있는 기능이 아닙니다.",
-
         "tutorialwarning": "<size=150%>시작하기 전에...\n\n<size=100%>아직 기초 코스를 진행하지 않았습니다.\n정보 없이 완전히 무지한 상태로 시작하시겠습니까?\n\n\n\n당신의 죽음은 확정된 거나 다를 바 없습니다.",
         "tutorialwarningyes": "기본 훈련 하기",
         "tutorialwarningno": "뭐 하는지는 내가 잘 알아!",

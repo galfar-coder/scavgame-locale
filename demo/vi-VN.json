@@ -1000,7 +1000,6 @@
         "horrified": "KINH HÃI",
         "focused": "TẬP TRUNG",
         "cargo": "<spoiler>",
-
         "braindamage4dsc": "...",
         "braindamage3dsc": "thực tại .. không còn .. ý nghĩa",
         "braindamage2dsc": "Thiểu năng trí tuệ nghiêm trọng. Khả năng suy nghĩ thông minh và tự duy trì bị hạn chế. Sự tổn thương não nghiêm trọng đang hiện diện.",
@@ -1603,7 +1602,6 @@
         "runsetminigamehandshakedsc": "Mức độ run của tay bạn trong các minigame khi bị đau",
         "runsetdebugworld": "Thế giới gỡ lỗi (Debug)",
         "runsetdebugworlddsc": "Nếu bật, làm cho thế giới nhỏ hơn nhiều để tăng tốc độ tạo màn. Không dành cho lối chơi bình thường",
-        
         "tutorialwarning": "<size=150%>Trước khi bắt đầu...\n\n<size=100%>Bạn chưa học qua khóa huấn luyện cơ bản.\nBạn có chắc chắn muốn mù quáng dấn thân vào không?\n\n\n\nCái chết của bạn gần như là điều chắc chắn.",
         "tutorialwarningyes": "Thực hiện khóa huấn luyện cơ bản",
         "tutorialwarningno": "Tôi biết mình đang làm gì!",
