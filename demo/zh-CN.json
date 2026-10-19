@@ -1000,7 +1000,6 @@
         "horrified": "极度恐惧",
         "focused": "绝境专注",
         "cargo": "<spoiler>",
-
         "braindamage4dsc": "...",
         "braindamage3dsc": "现实...变得...支离破碎......",
         "braindamage2dsc": "严重的认知障碍。理性思考与自理能力受限，存在重大脑部损伤。",
@@ -1603,7 +1602,6 @@
         "runsetminigamehandshakedsc": "当处于疼痛状态时，你在小游戏中手部的抖动剧烈程度",
         "runsetdebugworld": "调试世界",
         "runsetdebugworlddsc": "如果开启，世界将变得更小以加快生成速度。该选项不是为正常游戏游玩而设计的",
-
         "tutorialwarning": "<size=150%>在你下去之前...\n\n<size=100%>你还没有完成基础训练课程。\n你确定要在完全无知的情况下出发吗？\n\n\n\n你将必死无疑。",
         "tutorialwarningyes": "进行基础训练",
         "tutorialwarningno": "我知道我在做什么！",
