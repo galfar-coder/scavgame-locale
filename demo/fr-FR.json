@@ -996,7 +996,6 @@
         "impendingdoom": "Mauvais pressentiment",
         "horrified": "HORRIFIÉ",
         "focused": "CONCENTRÉ",
-
         "braindamage4dsc": "...",
         "braindamage3dsc": "tout  ...  est   insensé",
         "braindamage2dsc": "Fort déficit cognitif. Capacité de raisonnement et de satisfaction des besoins primaires limitée. Lésions cérébrales graves.",
@@ -1586,7 +1585,6 @@
         "runsetminigamehandshakedsc": "How much your hand shakes during minigames while in pain",
         "runsetdebugworld": "Monde débug",
         "runsetdebugworlddsc": "If on, makes the world much smaller to speed up generation. Not made for normal gameplay",
-
         "tutorialwarning": "<size=150%>Avant de partir…\n\n<size=100%>Vous n’avez pas encore essayé le cours d’entraînement.\nÊtes vous sûr·e de vouloir y aller à l’aveugle?\n\n\n\nVotre trépas est garanti.",
         "tutorialwarningyes": "Faire le cours d’entraînement",
         "tutorialwarningno": "Je sais ce que je fais !",
@@ -5978,4 +5976,3 @@
         "Prends pas trop la confiance."
     ]
 }
-
