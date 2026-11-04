@@ -1,10 +1,10 @@
 {
-    "name": "",
-    "description": "",
-    "version": "",
+    "name": "Biełaruskaja",
+    "description": "Nieaficyjny <color=\\\"white\\\">biełaruski pierakład taraškievicaju</color>.\nMoža źmiaščać pamyłki albo niedakładnaśći.\nInšyja movy, taksama jak i <color=\\\"white\\\">pierakład narkamaŭkaju</color>, možna znajśći za spasyłkaju ŭ tytrach hulni.\nAsablivaja dziaka ŭsioj biełaruskaj vietcy Dyskord-serveru za patrymku ŭ raspracoŭcy pierakładu!\nAŭtary: <color=\\\"blue\\\">batya_v_khati</color>, <color=\\\"yellow\\\">kastusescoolkalinouski</color> j <color=\\\"white\\\">Another</color><color=\\\"red\\\">Red</color><color=\\\"blue\\\">Blue</color>.",
+    "version": "1.0-Pre3",
     "main": {
-        "bandage": "",
-        "bandagedsc": "",
+        "bandage": "Paviazka",
+        "bandagedsc": "Rułon pieraviazačnaha materyjału ź bintam. Vykarystoŭvajecca dla zapavolvańnia kryvaciokaŭ, stabilizacyi pierałomaŭ i spryjańniu zahojvańnia skury. Nie ŭpłyvaje na cełasnaść ciahlicavych tkaninaŭ.",
         "rippeddressing": "",
         "rippeddressingdsc": "",
         "rag": "",
