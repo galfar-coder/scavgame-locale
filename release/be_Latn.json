@@ -1,7 +1,7 @@
 {
-    "name": "Biełaruskaja",
-    "description": "Nieaficyjny <color=\\\"white\\\">biełaruski pierakład taraškievicaju</color>.\nMoža źmiaščać pamyłki albo niedakładnaśći.\nInšyja movy, taksama jak i <color=\\\"white\\\">pierakład narkamaŭkaju</color>, možna znajśći za spasyłkaju ŭ tytrach hulni.\nAsablivaja dziaka ŭsioj biełaruskaj vietcy Dyskord-serveru za patrymku ŭ raspracoŭcy pierakładu!\nAŭtary: <color=\\\"blue\\\">batya_v_khati</color>, <color=\\\"yellow\\\">kastusescoolkalinouski</color> j <color=\\\"white\\\">Another</color><color=\\\"red\\\">Red</color><color=\\\"blue\\\">Blue</color>.",
-    "version": "1.0-Pre3",
+    "name": "Беларуская",
+    "description": "Неафіцыйны беларускі <color=\\\"white\\\">пераклад тарашкевіцаю</color>.\nМожа зьмяшчаць памылкі альбо недакладнасьці.\nІншыя мовы, таксама як і <color=\\\"white\\\">пераклад наркамаўкаю</color>, можна знайсьці на рэпазыторыі лакаляў (гл. мэню падзякаў).\n\nАпошняе абнаўленьне: 05.11.2026\nАўтары: <color=\\\"purple\\\">batya_v_khati</color>, <color=\\\"yellow\\\">kastusescoolkalinouski</color> j <color=\\\"white\\\">Another</color><color=\\\"red\\\">Red</color><color=\\\"blue\\\">Blue</color>.\n\n<i>Асаблівая дзяка ўсёй беларускай ветцы Дыскорд-сэрвэру за падтрымку ў распрацоўцы перакладу!</i>",
+    "version": "1.0-Pre13",
     "main": {
         "bandage": "Paviazka",
         "bandagedsc": "Rułon pieraviazačnaha materyjału ź bintam. Vykarystoŭvajecca dla zapavolvańnia kryvaciokaŭ, stabilizacyi pierałomaŭ i spryjańniu zahojvańnia skury. Nie ŭpłyvaje na cełasnaść ciahlicavych tkaninaŭ.",
