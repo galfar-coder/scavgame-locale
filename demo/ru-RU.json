@@ -1803,7 +1803,7 @@
         "craftanytool": "Любой инструмент",
         "craftexample": ",\nнапример <color=#AAAAAA><><color=#666666>",
         "craftanyliquid": "Любая жидкость",
-        "craftitemquality": "— (<1>) со свойством „<2>“",
+        "craftitemquality": "— (<1>) со свойством «<2>»",
         "craftliquidquality": "-(<1>) со свойством „<2>“",
         "craftcondition": "- Состояние не ниже <>%",
         "craftml": "- Не менее <> мл",
