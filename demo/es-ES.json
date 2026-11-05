@@ -1000,7 +1000,6 @@
         "horrified": "ATERRORIZADO",
         "focused": "CONCENTRADO",
         "cargo": "<spoiler>",
-        
         "braindamage4dsc": "...",
         "braindamage3dsc": "realidad  ..  sentido   ya   no",
         "braindamage2dsc": "Déficit mental grave. La habilidad de autosustentarse y pensar de manera inteligente se vuelve limitada. Daño cerebral importante.",
@@ -1603,7 +1602,6 @@
         "runsetminigamehandshakedsc": "Cuánto te tiembla la mano durante los minijuegos cuando estás dolorido",
         "runsetdebugworld": "Mundo de pruebas",
         "runsetdebugworlddsc": "Si está activo, hace que el mundo sea mucho más pequeño para acelerar la generación. No está pensado jugar de forma normal.",
-        
         "tutorialwarning": "<size=150%>Antes de que te vayas...\n\n<size=100%>No has pasado aún por los módulos básicos.\n¿Estás seguro que quieres bajar a ciegas?\n\n\n\nTu perdición no estará más que asegurada.",
         "tutorialwarningyes": "¡Llévame ahí!",
         "tutorialwarningno": "Sé lo que hago.",
