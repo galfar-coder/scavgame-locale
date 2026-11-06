@@ -1,7 +1,7 @@
 {
     "name": "Čeština",
     "description": "Oficiální český překlad hry. <DODĚLAT CREDITS PRO VŠECHNY CO SE PODÍLELY>",
-    "version": "",
+    "version": "1.0-Pre13",
     "main": {
         "bandage": "Obvaz",
         "bandagedsc": "Role obvazu s bandáží, která se používá ke zpomalení krvácení, stabilizaci zlomenin a podpoře hojení kůže. Nemá žádný vliv na zdraví svalů.",
@@ -258,27 +258,27 @@
         "titaniumpickaxe": "Titanový krumpáč",
         "titaniumpickaxedsc": "Kvalitně zpracovaný nástroj z kovaného titanu. Velmi odolný a efektivní při odstraňování terénu, i když pro boj příliš vhodný není.",
         "titaniummultitool": "Titanový multifunkční nástroj",
-        "titaniummultitooldsc": "",
+        "titaniummultitooldsc": "Malý, ale velmi pevný a odolný nástroj určený k výrobě předmětů. Je vybaven masivní hlavicí kladiva a drobnou, avšak mimořádně ostrou čepelí ukrytou v rukojeti. Na kopání ani boj se příliš nehodí, ale při výrobě předmětů vydrží téměř neomezeně dlouho. Navíc je lehký.\n\n<color=\"red\">Může být použito ve zdravotním panelu k amputaci končetin.",
         "titaniummachete": "Titanová mačeta",
-        "titaniummachetedsc": "",
+        "titaniummachetedsc": "Velmi účinný a odolný nástroj pro boj, lehký a snadno ovladatelný, ostrý jako břitva a mimořádně ničivý. Ostří je tepelně zpracováno, aby si zachovalo svoji ostrost po dlouhou dobu. Skvělý nástroj pro sebeobranu, v krajním případě ji můžeš použít jako nástroj na kopání.\n\n<color=\"red\">Může být použito ve zdravotním panelu k amputaci končetin.",
         "sledgehammer": "Bourací kladivo",
-        "sledgehammerdsc": "",
+        "sledgehammerdsc": "Nástroj s velikou plochou kovovou hlavou, co je připojena k dlouhé násadě. Slyšel jsi, že podobné nástroje často končí v řekách.",
         "woodpickaxe": "Dřevěný krumpáč",
         "woodpickaxedsc": "Krumpáč vyrobený ze značně neuspokojivého materiálu. Efektivní při odstraňování terénu, ale pomalý a křehký.",
         "wooddiggingtool": "Dřevěný kopací nástroj",
         "wooddiggingtooldsc": "Kus naostřeného dřeva na klacku. Při kopání jen o málo lepší než drápy.",
         "machete": "Mačeta",
-        "machetedsc": "",
+        "machetedsc": "Veliká, široká kovová čepel. Skvěle by se hodila do souboje na blízko. Cítíš se nesvůj při jejím držení.\n\n<color=\"red\">Může být použito ve zdravotním panelu k amputaci končetin.",
         "crudecleaver": "Primitivní sekáček",
-        "crudecleaverdsc": "",
+        "crudecleaverdsc": "Improvizovaný kovový sekáček s čepelí zahřebíkovanou na rukojeť. Skvěle by se hodil k výrobě. Cítíš se nesvůj při jeho držení.\n\n<color=\"red\">Může být použit ve zdravotním panelu k amputaci končetin.",
         "sickle": "Kovový srp",
-        "sickledsc": "",
+        "sickledsc": "Kovový nástroj se zahnutou čepelí, určený ke sklizni plodin nebo prosekávání vegetace.\n\n<color=\"red\">Může být použit ve zdravotním panelu k amputaci končetin.",
         "woodsickle": "Dřevěný srp",
         "woodsickledsc": "Dřevěný nástroj se zahnutou čepelí, vyrobený ke sklizni plodin nebo prosekávání vegetace.",
         "rake": "Hrábě",
         "rakedsc": "Mimo jiné slouží ke kypření půdy. Vyvolává pocit pravého farmáře!",
         "claws": "Sada drápů",
-        "clawsdsc": "",
+        "clawsdsc": "Přestože to vypadá jako hračka, je to až děsivě odolné a ostré. Máš pocit, že bys s tím v ruce vypadal drsně.\n\n<color=\"red\">Může být použito ve zdravotním panelu k amputaci končetin.",
         "trowel": "Zahradní lopatka",
         "troweldsc": "Primitivní zahradnický nástroj, vyrobený ze dřeva a kovu. Pravděpodobně lepší volba než hrabat drápy.",
         "woodtrowel": "Dřevěná lopatka",
@@ -339,8 +339,8 @@
         "blindfolddsc": "Černý kus látky k zakrytí očí. Poskytuje mírnou ochranu, ale oslepí tvou postavu.",
         "balaclava": "Kukla",
         "balaclavadsc": "Silný, polstrovaný kus látky, který se natahuje na hlavu. Poskytuje mírnou ochranu a slušnou izolaci.",
-        "earmuffs": "",
-        "earmuffsdsc": "",
+        "earmuffs": "Chrániče sluchu",
+        "earmuffsdsc": "Moderní chrániče sluchu s polstrovanými mušlemi spojenými kovovým mostem. Ochrání tě před hlasitými zvuky a poskytuje určitou tepelnou izolaci... nějak. Nic moc nenadělá proti <i>extrémně</i> hlasitým zvukům.",
         "latexgloves": "Latexové rukavice",
         "latexglovesdsc": "Pár obyčejných latexových rukavic. Poskytují mírnou izolaci proti živlům.",
         "tacticalgloves": "Taktické rukavice",
@@ -365,8 +365,8 @@
         "hoodiedsc": "Černá, velmi oversized mikina, která tě udrží v teple a má malou kapsu.",
         "metabolismchip": "Čip metabolismu",
         "metabolismchipdsc": "Čip, který mírně zrychluje tvůj metabolismus, díky čemuž se tvé končetiny regenerují mnohem rychleji, ale za cenu rychlejšího hladovění.",
-        "heatfernsponge": "",
-        "heatfernspongedsc": "",
+        "heatfernsponge": "Heatfern houba",
+        "heatfernspongedsc": "Utržená, scvrklá výtrusnice heatfernu. Může být použita na končetině k boji proti infekci, nebo ji sníst jako zdroj živin. Její výtrusy možná ovlivní tvůj imunitní systém.",
         "jetpack": "Jetpack",
         "jetpackdsc": "Zařízení nošené jako batoh, které pomocí trysek pohání uživatele vzduchem. Má omezené palivo a když se namočí, jeho funkce se zhorší. Pro použití podrž W. Má také malou kapsičku na ukládání věcí.",
         "dynamite": "Dynamit",
@@ -393,8 +393,8 @@
         "carcasssplintdsc": "Tvrdá, dlouhá trubka vyrobená z několika spojených mršin. Funguje jako slušná provizorní dlaha pro ošetření zlomenin.",
         "terrainscanner": "Skener terénu",
         "terrainscannerdsc": "Zobrazuje nekvalitní mapu terénu pod tebou. Terén je zvýrazněn zeleně, pevné budovy červeně. Může být mírně nepřesný. Dosáhne do hloubky 24 metrů.",
-        "nanotechscanner": "",
-        "nanotechscannerdsc": "",
+        "nanotechscanner": "Nano-tech snímač",
+        "nanotechscannerdsc": "Zařízení, které detekuje specifické technologické stopy různých čipů, zobrazuje jejich přibližnou polohu. Funguje pouze v hlavním inventáři. Na boku jsou napsané nějaké informace o čipech, použij pro čtení. <color=\"red\">Funguje pouze, když je v hlavním inventáři.</color>",
         "geigercounter": "Geigerův počítač",
         "geigercounterdsc": "Elektronický přístroj pro detekci a měření ionizujícího záření pomocí Geiger-Müllerovy trubice. Použitím ho zapneš nebo vypneš.",
         "handcrank": "Nabíječka na kličku",
@@ -416,11 +416,11 @@
         "tweezers": "Pinzeta",
         "tweezersdsc": "Obyčejná kovová pinzeta. Dokáže čistě a bezbolestně odstranit šrapnel z končetin.",
         "lockpickingkit": "Sada paklíčů",
-        "lockpickingkitdsc": "",
+        "lockpickingkitdsc": "Malá sada nástrojů používaná na prolomení všelijakých zámků. Když se budeš snažit prolomit zámek, tak je jedno kde se v inventáři nachází, použije se. Zapotřebí 10 INT na použití, efektivita se škáluje s vyšší INT.",
         "icepack": "Chladivý obklad",
         "icepackdsc": "Studený sáček naplněný samochladicím gelem. Urychluje hojení svalů, snižuje bolest a mírně tě ochlazuje. Automaticky se časem sám ochladí.",
         "cryogeniccore": "Kryogenické jádro",
-        "cryogeniccoredsc": "",
+        "cryogeniccoredsc": "Pokročilé zařízení schopné ovládat okolní teplotu. Pokud bude vhozeno do roztavené horniny, nebo tvoje tělesná teplota vzroste až moc, tak se aktivuje, ztuhne veškeré magma kolem tebe a výrazně tě ochladí. Jen na jedno použití.",
         "armwarmers": "Návleky na ruce",
         "armwarmersdsc": "Pár modrých návleků na ruce. Poskytují určitou izolaci proti chladu.",
         "carapace": "Krunýř",
@@ -461,10 +461,10 @@
         "frigiantfruitdsc": "Velmi studené, tvrdé a sklovité ovoce. Chutné, ale má tendenci tě hodně ochladit. Zvaž, jestli ho chceš jíst venku v mrazu.",
         "helluce": "Pekelát",
         "hellucedsc": "Suchá, fialová bylina s obzvláště pálivou chutí. Pomáhá proti nevolnosti, mírně zlepšuje ztrátu sluchu a může zmírnit vnitřní krvácení. Má tendenci prudce zvyšovat tělesnou teplotu konzumenta.",
-        "spicevineleaf": "",
-        "spicevineleafdsc": "",
+        "spicevineleaf": "Kořeňák",
+        "spicevineleafdsc": "Suchý stonek s mnoha jasně zbarvenými listy. Může být sněden, ale pálí jako čert. Může být použito na končetině k boji proti infekci. Použitelné jako listí při výrobě.",
         "bulbskin": "",
-        "bulbskindsc": "",
+        "bulbskindsc": "Kus silné žluté membrány. Zažene žízeň, ale také může lehce ovlivnit mozkové funkce. Může být použito jako provizorní obvaz a analgetika.",
         "popfruit": "Praskoplod",
         "popfruitdsc": "Zvláštní, obdélníkové lesklé ovoce. Je chutné a doplňuje hlad i žízeň. Může náhodně mírně pomoci s nemocí z ozáření, nebo ji naopak zhoršit. Při nárazu na zem ve vysoké rychlosti vydává hlasitý zvuk - užitečné pro zjišťování hloubky pádu.",
         "antisepticmush": "Antiseptická kaše",
@@ -587,12 +587,12 @@
         "woodsandalsdsc": "Dřevěná deska přivázaná k tvým tlapkám provazem. V žádném ohledu nejsou pohodlné, ale ochrání tě před ostrými úlomky... Pokud budeš mít štěstí, tak i více než jednou!",
         "minibarrel": "Mini-sud",
         "minibarreldsc": "Malý průmyslový sud určený ke skladování kapalin. Extrémně těžký a nepraktický k používání.",
-        "peglimb": "",
-        "peglimbdsc": "",
-        "steelprosthesis": "",
-        "steelprosthesisdsc": "",
-        "peo": "",
-        "peodsc": ""
+        "peglimb": "Dřevěná protéza",
+        "peglimbdsc": "Provizorní dřevěná protéza, co dokáže nahradit ztracené končetiny. Je méně účinná než běžná končetina a má sklony se rozbíjet. Oprav pomocí dřeva. Pro připevnění ji použij na hrudník nebo břicho. 7 INT je zapotřebí ke spolehlivému připevnění.",
+        "steelprosthesis": "Ocelová protéza",
+        "steelprosthesisdsc": "Kovová protéza nahrazující ztracenou končetinu. Ve většině ohledů se vyrovná běžné končetině. Opravpomocí šrotu. Pro připevnění ji použij na hrudník nebo břicho. 10 INT je zapotřebí ke spolehlivému připevnění.",
+        "peo": "P.E.O. končetina",
+        "peodsc": "Proteticky vylepšená končetina. Téměř ve všech ohledech je lepší než běžná končetina. Oprav pomocí titanu. Pro připevnění ji použij na hrudník nebo břicho. 14 INT je zapotřebí ke spolehlivému připevnění."
     },
     "buildings": {
         "animalcorpse": "Zvířecí mršina",
@@ -646,10 +646,10 @@
         "containercratedsc": "Obsahuje různé předměty.",
         "laserdrone": "Přepravní bedna",
         "laserdronedsc": "Obsahuje různé předměty.",
-        "laserdrone2": "",
-        "laserdronedsc2": "",
+        "laserdrone2": "Kryo-dron",
+        "laserdronedsc2": "Zvlášť vzteklý kus mašinérie.",
         "piston": "Starý stroj",
-        "pistondsc": "",
+        "pistondsc": "Nějaké válcové zařízení.",
         "corpse": "???",
         "corpseseen": "Mrtvola",
         "corpsedsc": "milky",
@@ -657,7 +657,7 @@
         "glassshardsdsc": "milky",
         "sandvine": "Písečná liána",
         "sandvinedsc": "Dlouhá, pevná liána. Mohl bys po ní vyšplhat, ačkoliv by to mohlo být obtížné, pokud bude příliš tenká.",
-        "vein": "",
+        "vein": "Žíla",
         "veindsc": "...Rostlina? Po které můžeš vylézt.",
         "ladder": "Žebřík",
         "ladderdsc": "Vertikální sada příček používaná k výstupu nebo sestupu. Dá se předpokládat, že víš, jak to použít.",
@@ -677,11 +677,11 @@
         "DigestionCrystaldsc": "Vypadá a na dotek působí dost divně.",
         "dropcapsule": "Výsadková kapsle",
         "dropcapsuledsc": "Vyzařuje z ní umělé teplo.",
-        "lavalamp": "",
-        "lavalampdsc": "",
+        "lavalamp": "Lávová lampa",
+        "lavalampdsc": "Vyzařuje teplou záři a na dotek pálí. Radši se u toho nezdržuj příliš dlouho.",
         "coldpuff": "",
-        "coldpuffdsc": "",
-        "coldpuffdsc2": "",
+        "coldpuffdsc": "Zvláštní bílá koule, co se vznáší nad zemí díky nafialovělým chapadlům. Je podivně studená.",
+        "coldpuffdsc2": "Rozhodně má velmi zvláštní mechanismus, jak šířit své výtrusy.",
         "spicevine": "",
         "spicevinedsc": "",
         "lifepodbuttonheat": "Přepínač teploty",
@@ -769,15 +769,15 @@
         "stoneplant": "Stoneplant",
         "stoneplantdsc": "Je to shluk tvrdého, kameni podobného materiálu s přilepenými měkkými zelenými hrudkami.",
         "fan": "Starý stroj",
-        "fandsc": "",
-        "fandsc2": "",
+        "fandsc": "Ty čepele vypadají ostře, ale jsou dost chatrné.",
+        "fandsc2": "Už nejsou tak děsivé.",
         "TurbulentCrystal": "Neklidný krystal",
         "TurbulentCrystaldsc": "Mírně se chvěje.",
         "turret": "Věžička",
         "turretdsc": "Zdá se, že to na sobě má nějaký detektor tepla.",
-        "ceilingturret": "",
-        "ceilingturretdsc": "",
-        "grate": "",
+        "ceilingturret": "Stropní střílna",
+        "ceilingturretdsc": "Zdá se, že má nějaký tepelný nebo pohybový senzor. Možná by ses mohl proplížit kolem?",
+        "grate": "Mříž",
         "gratedsc": "milky",
         "stalagmite": "Stalagmit",
         "stalagmitedsc": "K tvé úlevě je jeho špička zaoblená.",
@@ -792,12 +792,12 @@
         "stalactitedscdropped": "Abychom byli přesní, už není připevněný ke stropu.",
         "drybush": "Uschlý keř",
         "drybushdsc": "Máš plíživé podezření, že je to mrtvé.",
-        "crimsonbush": "",
-        "crimsonbushdsc": "",
-        "crimsontree": "",
-        "crimsontreedsc": "",
-        "pussack": "",
-        "pussackdsc": "",
+        "crimsonbush": "Karmínový keř",
+        "crimsonbushdsc": "Svoboda je na dosah, a ty místo toho obdivuješ keře. #Jsi jen pár okamžiků od možné svobody, a přesto trávíš čas obdivováním keřů.",
+        "crimsontree": "Karmínovec",
+        "crimsontreedsc": "Je to strom, ale červený. Nemáš náhodou nějaké jinačí věci na starost?",
+        "pussack": "Hnisavý vak",
+        "pussackdsc": "Jsi si jist, že je to naživu. Nechutný. Možná se to bude hodit?",
         "brownshroom": "Brownshroom",
         "brownshroomdsc": "Nedokážeš o ní říct nic víc než fakt, že je prostě hnědá.",
         "spentfuel": "Vyhořelé palivo",
@@ -814,7 +814,7 @@
         "geyser": "Gejzír",
         "geyserdsc": "Nestabilní gejzír s tendencí vystřelovat vodu. Naštěstí má přinejhorším pokojovou teplotu.",
         "lavageyser": "Gejzír",
-        "lavageyserdsc": "",
+        "lavageyserdsc": "Nestabilní gejzír, co má tendenci vystříknout magma. Tohle vypadá jako mnohem nebezpečnější varianta gejzírů, co jsi již viděl.",
         "oilpipe": "Odpadní trubka",
         "oilpipedsc": "Rezavá trubka, ze které vytéká tmavý dehet. Nechceš se dívat dovnitř... Pokud jí dáš dostatek času, pravděpodobně zaplaví celou oblast.",
         "pop": "Pukavka",
@@ -843,8 +843,8 @@
         "grabbershroomdsc": "Horko těžko chápeš, jak tohle může nějaká houba dokázat.",
         "terminal": "Terminál",
         "terminaldsc": "Starý počítačový terminál.",
-        "macrofleshrebuilder": "",
-        "macrofleshrebuilderdsc": ""
+        "macrofleshrebuilder": "Přistroj na obnovu tkáně",
+        "macrofleshrebuilderdsc": "Nějaké pokročilé chirurgické zařízení. Snad dokážeš zjistit, jak ho použít."
     },
     "moodles": {
         "braindamage4": "V kómatu",
@@ -987,10 +987,10 @@
         "irradiated2": "Nemoc z ozáření",
         "irradiated3": "Těžké ozáření",
         "irradiated4": "Chodící Černobyl",
-        "barotrauma1": "",
-        "barotrauma2": "",
-        "barotrauma3": "",
-        "barotrauma4": "",
+        "barotrauma1": "Vysoký tlak",
+        "barotrauma2": "Velmi vysoký tlak",
+        "barotrauma3": "Barotrauma",
+        "barotrauma4": "Kritické barotrauma",
         "energized": "Příval energie",
         "hemothorax": "Hemotorax",
         "hollow": "Prázdnota",
@@ -1014,40 +1014,40 @@
         "impendingdoom": "Pocit blížící se zkázy",
         "horrified": "ZDĚŠENÍ",
         "focused": "SOUSTŘEDĚNÍ",
-        "prosthesis": "",
-        "loosescrews": "",
-        "bentprosthesis": "",
-        "materialloss": "",
+        "prosthesis": "Protetická končetina",
+        "loosescrews": "Uvolněné šrouby",
+        "bentprosthesis": "Ohnutá protéza",
+        "materialloss": "Kritická ztráta materiálu",
         "braindamage4dsc": "...",
         "braindamage3dsc": "realita   ...   přestává   dávat   smysl",
-        "braindamage2dsc": "",
-        "braindamage1dsc": "",
+        "braindamage2dsc": "Schopnost rozumně uvažovat a samostatně fungovat je omezená. Mozek je vážně poškozen.",
+        "braindamage1dsc": "V důsledku poškození mozku jsou narušeny duševní schopnosti. Něco není v pořádku…",
         "strokedsc": "Krvácení do mozku, pravděpodobně způsobené těžkou hypertenzí. Je v pokročilém stádiu, šance na přežití je nulová, pokud nemáš Braingrow nebo prokoagulant.",
-        "cantbreathedsc": "",
+        "cantbreathedsc": "Dusíš se! Hrozí ztráta vědomí a smrt.",
         "thoraxdestroyeddsc": "Plíce jsou příliš poškozené na to, aby fungovaly, což je způsobeno kriticky špatným stavem hrudních svalů.",
-        "pulmonaryembolismdsc": "",
-        "oxygen1dsc": "",
-        "oxygen2dsc": "",
-        "oxygen3dsc": "",
-        "oxygen4dsc": "",
-        "fibrillation1dsc": "",
+        "pulmonaryembolismdsc": "Velká krevní sraženina se uvolnila a uvízla v plicích, kde blokuje tepnu a rychle poškozuje hrudník. Sniž viskozitu krve.",
+        "oxygen1dsc": "SpO2 pod 90 %. Může to být příznak nějakého onemocnění.",
+        "oxygen2dsc": "SpO2 pod 75 %, mozek je postupně připravován o kyslík. Ukazuje to na nějaké onemocnění.",
+        "oxygen3dsc": "SpO2 pod 60 %, nedostatek kyslíku ve většině tkání způsobuje arytmii. Může být smrtelné.",
+        "oxygen4dsc": "SpO2 pod 45 %. V tvém těle se stalo něco opravdu, ale opravdu zlého. #Něco se v tvém těle velice strašně špatného stalo.",
+        "fibrillation1dsc": "Nepravidelný srdeční tep způsoben vážným zatížením těla. Pokud se neodstraní příčina, stav se může dále zhoršovat. Může být defibrilováno.",
         "fibrillation2dsc": "Vážný, nepravidelný tep, který brání efektivnímu pumpování krve. Bez léčby přejde do smrtelné fibrilace komor. Lze defibrilovat.",
-        "fibrillation3dsc": "",
+        "fibrillation3dsc": "Životu ohrožující, chaotický srdeční rytmus. Tohle se opravdu ošklivě zvrtlo.",
         "palpitationsdsc": "Cítíš, jak ti srdce buší, jako by mělo vyskočit z hrudi. Je to jen úzkost, nebo je něco strašně špatně?",
-        "cardiacarrestdsc": "",
+        "cardiacarrestdsc": "Asystolie. Malá šance na úspěšnou léčbu defibrilací nebo podáním epinefrinu. Brzy dojde k cerebrální hypoxii a následně ke smrti.",
         "hypoventilation1dsc": "Snížená dechová frekvence.",
-        "hypoventilation2dsc": "",
-        "hypotension1dsc": "",
-        "hypotension2dsc": "",
-        "hypotension3dsc": "",
+        "hypoventilation2dsc": "Výrazně snížená dechová frekvence, koncentrace kyslíku v krvi postupně klesá.",
+        "hypotension1dsc": "Mírně snížený krevní tlak.",
+        "hypotension2dsc": "Středně snížený krevní tlak. Vypadáš bledě a máš chladnou, vlhkou pokožku. Zkontroluj si svoje životní funkce.",
+        "hypotension3dsc": "Výrazně snížený krevní tlak, každou chvíli můžeš omdlít. Může nastat fibrilace. Zkontroluj si svoje životní funkce.",
         "hypotension4dsc": "Smrtelně nízký krevní tlak. Krev se nedostává k orgánům. Bezprostředně hrozí mozková hypoxie a smrt.",
         "hypertension1dsc": "Mírně zvýšený krevní tlak.",
-        "hypertension2dsc": "",
-        "hypertension3dsc": "",
-        "hypertension4dsc": "",
+        "hypertension2dsc": "Středně zvýšený krevní tlak. Bolí tě hlava a máš závratě. Zkontroluj si svoje životní funkce.",
+        "hypertension3dsc": "Nebezpečně zvýšený krevní tlak. Brzy může způsobit vážné zdravotní komplikace. Cítíš se strašně. Zkontroluj si svoje životní funkce.",
+        "hypertension4dsc": "Živou ohrožující krevní tlak. Hrozí cévní mozková příhoda. Okamžitě si zkontroluj svoje životní funkce a sleduj příznaky mrtvice.",
         "venom1dsc": "Mírná přítomnost hemotoxinu v krevním oběhu. Nekouslo tě něco?",
-        "venom2dsc": "",
-        "venom3dsc": "",
+        "venom2dsc": "Hemotoxin je přítomen v krevním řečišti, narušuje srážlivost krve a ničí krevní buňky. Zkontroluj si svoje životní funkce.",
+        "venom3dsc": "Vysoká koncentrace hemotoxinu se nachází v krevním řečišti, ucpávajíc krev a ničíc krvinky. Zkontroluj si svoje životní funkce.",
         "venom4dsc": "Tvoje krev připomíná spíš marmeládu než něco, co dokáže udržet život.",
         "pain1dsc": "Cítíš mírnou bolest.",
         "pain2dsc": "Docela to bolí. Nespokojenost pomalu stoupá.",
@@ -1055,7 +1055,7 @@
         "pain4dsc": "Mysl drásající bolest. Schopnost pohybu omezena. Smrt se teď zdá jako ta lepší varianta. Nespokojenost rychle stoupá.",
         "shockdsc": "Upadání do šoku z nesnesitelné bolesti.",
         "overdose1dsc": "Pocit uvolnění a klidu. Tělo začíná být necitlivé.",
-        "overdose2dsc": "",
+        "overdose2dsc": "Velmi uvolněný a klidný, ale plíce ti připadají těžké. O trošičku unavenější než obvykle. Tenhle pocit je docela příjemný...",
         "overdose3dsc": "Dýchání je obtížné, ale mysl je v euforii. Tohle rozhodně není zdravé. Kéž by to tak mohlo trvat věčně...",
         "overdose4dsc": "",
         "withdrawal1dsc": "Silná touha po další dávce.",
@@ -1073,20 +1073,20 @@
         "exertion2dsc": "Nepříjemné vyčerpání, problémy s pohybem a prací. (<>%)",
         "exertion3dsc": "Téměř neschopnost pohybu, vysoké fyzické vyčerpání. (<>%)",
         "exertion4dsc": "Téměř nemožnost popadnout dech. (<>%)",
-        "brokenbonedsc": "",
-        "dislocationdsc": "",
-        "brokenneckdsc": "",
-        "brokenribsdsc": "",
-        "dislocatedjawdsc": "",
-        "dislocatedspinedsc": "",
-        "infected1dsc": "",
-        "infected2dsc": "",
-        "infected3dsc": "",
-        "infected4dsc": "",
-        "sepsis1dsc": "",
-        "sepsis2dsc": "",
+        "brokenbonedsc": "Něco sis zlomil. Zkus nepoužívat tu poraněnou končetinu, a odpočívej co nejvíce to jde. Použij obvaz nebo dlahu.",
+        "dislocationdsc": "Vykloubil sis kloub. Zkus nepoužívat poraněnou končetinu. Vykloubení lze napravit ručně.",
+        "brokenneckdsc": "Tvůj krk je zlomený. Tvoje mícha není přeťatá, ale jakýkoliv pohyb je ukrutně bolestivý. Fyzicky slabší od krku dolů. Jíst bolí.",
+        "brokenribsdsc": "Tvoje žebra jsou zlomená, což dělá z dýchaní náročnou věc. Máš slabší paže.",
+        "dislocatedjawdsc": "Tvoje čelist je vykloubená, což ovlivňuje tvoji mluvu a způsobuje, že jezení velice bolí.",
+        "dislocatedspinedsc": "Tvoje páteř je vymknutá. Tvoje mícha není přeťatá, ale jakýkoliv pohyb je ukrutně bolestivý. Fyzicky slabší od pasu dolů.",
+        "infected1dsc": "Místo infekce je oteklé a teplé. Najdi něco, co dokáže zabít původce infekce.",
+        "infected2dsc": "Z místa infekce vytéká tmavý hnis a otok se zvětšuje. Najdi antiseptikum.",
+        "infected3dsc": "Infekce se šíří po celé končetině rychle a bolestivě. Riziko vzniku sepse. Okamžitě najdi antiseptikum.",
+        "infected4dsc": "Infekce se šíří do dalších končetin, navíc původní ovlivněná končetina začíná podléhat nekróze. Sepse se rozvíjí. Proveď amputaci.",
+        "sepsis1dsc": "Rozšířená infekce způsobuje přehnanou reakci v tvém imunitním systému. Jsi zmatený, máš nízký krevní tlak a horečku. Ošetři veškeré infikované končetiny.",
+        "sepsis2dsc": "Snížený krevní tlak, závratě a silná horečka. Známky selhání orgánů. Brzy může dojít k septickému šoku.",
         "sepsis3dsc": "<i>Když nebyl čas zastavit se pro smrt, zastavila se smrt laskavě sama.</i> Bezprostředně hrozí oběhové selhání.",
-        "concussiondsc": "",
+        "concussiondsc": "Kvůli nízkému zdraví hlavy jsi v bezvědomí. Probudíš se, jakmile se tvoje hlava zotaví.",
         "unconsciousdsc": "Žádná reakce na vnější podněty. Tma.",
         "incapacitateddsc": "Neschopnost stát nebo myslet. Téměř naprostá ztráta citu.",
         "asleepdsc": "Jen krátké zdřímnutí.",
@@ -4089,24 +4089,24 @@
                 "...A-ah... Dobře... N-no... T-tak sbohem..."
             ],
             "wwmr": [
-                "",
-                "",
-                ""
+                "Super... Jsem zde... Jem konečně tady dole. Pojďme na to. Ten cíl by tu někde měl být.",
+                "Ten... Cíl... Někde by tu měl být... Žádné koniny. Jdeme do toho.",
+                "Dokázal jsem to... Dokázal jsem to..? Hmmh... Někde tady poblíž by to mělo být... Pojďme s tím skoncovat."
             ],
             "endlessloop0": [
-                ""
+                "...C...co..? Co? Proč? Co to... Proč jsem zpět tady..? Hnn... Co se to vlastně stalo..."
             ],
             "endlessloop1": [
-                ""
+                "...Tohle nejde podle mých očekávání... Nevím co jiného bych měl dělat... No. Ugh. Do třetice všeho dobrého, snad...?"
             ],
             "endlessloop2": [
                 ""
             ],
             "endlessloop3": [
-                ""
+                "No teda! Z tadyka se nedostanu... Já... už si na tohle začínám zvykat."
             ],
             "endlessloopdefault": [
-                ""
+                "No, tak ještě jedno kolečko si dáme..."
             ],
             "vomitresponse": [
                 "Ehm... Jsi v pohodě..?"
@@ -4170,10 +4170,10 @@
                 "",
                 "",
                 "",
-                "",
-                "",
-                "",
-                ""
+                "Přinejmenším fascinující.",
+                "Aspoň nějaká změna.",
+                "Tady je očividně docela temno.",
+                "Nové prostředí. Zajímavé."
             ],
             "eatGood": [
                 "",
@@ -4200,14 +4200,14 @@
             "eatBad": [
                 "",
                 "Fuj.",
-                "",
-                "",
-                "",
-                "",
-                "",
-                "",
-                "",
-                ""
+                "Odporné.",
+                "Strašné.",
+                "Jen lehce lepší než hladovění.",
+                "Zkazilo mi to chuť k jídlu.",
+                "...pokud musím.",
+                "Mým chuťovým pohárkům se to příliš nezamlouvalo.",
+                "Nebylo to nejlepší kulinářské rozhodnutí.",
+                "Z tohohle mi bude nevolno."
             ],
             "refuseEat": [
                 "",
@@ -4229,7 +4229,7 @@
                 "",
                 "",
                 "",
-                "",
+                "Mé vědomí se brzy vyčerpá.",
                 "",
                 ""
             ],
@@ -4246,98 +4246,98 @@
                 ""
             ],
             "confused": [
-                "",
-                "",
-                "",
-                "",
-                "",
-                "",
-                "",
-                "",
-                ""
+                "Točí se mi hlava.",
+                "Mé oči mají problém zaostřit...",
+                "Tohle zmatení nenávidím.",
+                "Zcela zbytečná dezorientace.",
+                "Muset se soustředit...",
+                "V mojí mysli je jen šum.",
+                "Nemůžu jasně myslet.",
+                "Má mysl nefunguje, jak má.",
+                "Co..?"
             ],
             "wakeup": [
-                "",
-                "",
-                "",
-                "",
-                "",
-                "",
-                "",
-                "",
-                "",
-                ""
+                "Probouzím se.",
+                "Ahoj, světe.",
+                "Vstávám.",
+                "Znova.",
+                "Co teď.",
+                "Vstávat a zářit.",
+                "Opět v provozu.",
+                "Plný vědomí.",
+                "Mozková mlha ustupuje.",
+                "Jsem si odpočal."
             ],
             "sick": [
-                "",
-                "",
-                "",
-                "",
-                "",
-                "",
-                ""
+                "Je mi nevolno.",
+                "Žaludku se to příliš nelíbí.",
+                "Není mi dobře.",
+                "Zdá se, že moje tělo se tomu brání.",
+                "Něco se v mém žaludku pokazilo.",
+                "Zdá se, že je mi nevolno.",
+                "Zdá se, že mé tělo bojuje s toxiny."
             ],
             "verysick": [
-                "",
-                "",
-                "",
-                "",
-                "",
-                "",
-                ""
+                "Vyvrhnu... Obsah... Žaludku...",
+                "Je mi natolik nevolno... že již nemůžu fungovat.",
+                "Moje tělo... mě zrazuje...",
+                "Potřebuji se zbavit.. toxinů...",
+                "Můj žaludek... se obrátil proti mně...",
+                "Musím... Hodit... Šavli...",
+                "Už to přichází..."
             ],
             "vomit": [
-                "",
-                "",
-                "",
-                "",
+                "Ghh... *kašel* ...Pojďme se posunout dále.",
+                "To, co ještě před chvílí byla večeře, nyní leží na zemi pode mnou.",
+                "Eugh... jaké plýtvání výživnými látkami.",
+                "Stále... cítím chuť zvratků..",
                 "Ugh...",
-                "",
-                ""
+                "Neuspokojivý.",
+                "Promarněné živiny."
             ],
             "vomitblood": [
-                "",
-                "",
-                "",
-                "",
-                "",
-                "",
-                ""
+                "Gghh... T-to značí vnitřní krvácení.",
+                "Hacck... Krev. Krvácení. Uvnitř.",
+                "Uugh... Potřebuji.. lékařskou péči.",
+                "Moje zvratky *kašel* ...mají kovovou chuť.",
+                "V-vypadá to... Že jsem vyzvracel krev..",
+                "Není ideální.",
+                "Ghck... Příznak skrytého onemocnění."
             ],
             "full": [
-                "",
-                "",
-                "",
-                "",
-                "",
-                ""
+                "Jsem plně nasycen.",
+                "Prozatím nevyžaduji další potravu.",
+                "Tohle mi na nějakou dobu vystačí.",
+                "Kalorický příjem je dostačující.",
+                "Dostatečně nasycen.",
+                "Tenhle příjem je výrazně nad kalorickou normou."
             ],
             "hungry": [
-                "",
-                "",
-                "",
-                "",
-                "",
-                "",
-                ""
+                "Vyžaduji potravu.",
+                "Mám hlad.",
+                "Zdá se, že potřebuji výživu.",
+                "Sbíhají se mi sliny.",
+                "Vyžaduji živiny.",
+                "Potřebuji míti příjem energie.",
+                "Je zapotřebí potrava."
             ],
             "starving": [
-                "",
-                "",
-                "",
-                "",
-                "",
-                "",
-                ""
+                "Naléhavě potřebuji potravu...",
+                "Tenhle hlad bolestivě pálí.",
+                "Potřebuji potravu, abych se mohl soustředit...",
+                "Žaludek... Se dožaduje potravy...",
+                "Vyhladovění se blíží.",
+                "Potrava... Nezbytná...",
+                "Potrava je nezbytná pro přežití."
             ],
             "thirsty": [
-                "",
-                "",
-                "",
-                "",
-                "",
-                "",
-                ""
+                "Vyžaduji hydrataci.",
+                "Měl bych přijmout trochu vody.",
+                "Optimální by bylo se jít hydratovat.",
+                "Můj krk je poněkud vyschlý. Závěr: Nedostatečná hydratace.",
+                "Moudřejší by bylo si dopředu připravit denní příděl vody.",
+                "Vyžaduji vodu.",
+                "Voda je zapotřebí."
             ],
             "dehydrated": [
                 "Jsem fakt dehydrovaný.",
@@ -4450,22 +4450,22 @@
                 "Tohle je teď můj život."
             ],
             "miserable": [
+                "...Prosím, prosím, kéž mě zahrání nějaká vyšší moc.",
                 "",
-                "",
-                "",
-                "",
-                "",
+                "Nemá to smysl. Nemá to smysl.",
+                "Jsem již za hranicí všech únosných mezí.",
+                "Už... jsem tak blízko.",
                 "DOST!!!",
+                "PROČ!??",
                 "",
-                "",
-                "",
-                "",
-                "",
-                "",
-                "",
-                "",
-                "",
-                "",
+                "...Zab mě.",
+                "Šance, že se odtud dostanu živý je neexistující.",
+                "Selhal jsem.",
+                "Za tohle selhání zaplatím svým životem.",
+                "Těm kabátům to neprojde.",
+                "Jsem příliš ubohý na to, abych uspěl.",
+                "Pouhý pytel masa, krve a kostí...",
+                "Jaký krutý nevtip...",
                 "",
                 "",
                 "",
@@ -4639,64 +4639,64 @@
                 ""
             ],
             "hot": [
-                "",
-                "",
-                "",
-                "",
-                "",
-                "",
-                "",
-                "",
-                "",
-                ""
+                "Je mi vedro.",
+                "...Vedro. Strašné. Vedro.",
+                "Takhle snad dostanu úpal jestli to bude pokračovat...",
+                "Moje tělesná teplota už dosahuje nebezpečných hodnot...",
+                "Úpal... Se blíží.",
+                "Je náročné se soustředit v takovém vedru.",
+                "Nebezpečné vedro...",
+                "Samotné pocení tohle nevyřeší...",
+                "Vedro, až se mi z toho točí hlava.",
+                "Lije ze mě jako z konve."
             ],
             "exerted": [
-                "",
-                "",
-                "",
-                "",
-                "",
-                "",
-                "",
-                "",
-                ""
+                "Preferoval bych odpočinek.",
+                "Zdravý pohyb.",
+                "Nejsem stavěný na fyzickou práci.",
+                "Tohle je unavující.",
+                "Měl bych přestat.",
+                "Pauza by se zrovna hodila.",
+                "Tolik fyzické námahy.",
+                "Vyčerpán.",
+                "Soustřeď se."
             ],
             "exhausted": [
-                "",
+                "Unavený...",
                 "Uf... uf... *lapání po dechu*...",
-                "",
-                "",
-                "",
-                "",
-                "",
-                "",
-                "",
+                "Vyžaduji... Odpočinek...",
+                "Jsem... Zcela vyčerpán...",
+                "Potřebuji... Dýchat...",
+                "Vyčerpaný...",
+                "Je... Těžké... dýchat...",
+                "*kašel* *kašel*",
+                "Mé svaly... Vypovídají... Službu...",
                 ""
             ],
             "freezing": [
-                "",
-                "",
-                "",
-                "",
-                "",
-                "",
-                "",
-                "",
-                "",
-                ""
+                "Mám nebezpečně nízkou tělesnou teplotu.",
+                "Musím se ohřát co nejdříve.",
+                "Krev se mi zamrazuje.",
+                "Je zapotřebí zdroj tepla...",
+                "Třesu se.",
+                "Musím se okamžitě dostat do tepla.",
+                "Mrznu.",
+                "Příliš veliká zima. Bolí to.",
+                "Takový znecitlivující chlad...",
+                "Nedokážu cítit svoje končetiny."
             ],
             "emaciated": [
-                "",
-                "",
-                "",
-                ""
+                "Moje postava je nebezpečně vyhublá.",
+                "Dosahuji rizika srdečního selhání. Musím navýšit svoji tělesnou hmotu.",
+                "Jsem velice podvyživený.",
+                "Musím přizpůsobit svoji dietu."
             ],
             "obese": [
-                "",
-                "",
-                "",
-                "",
-                ""
+                "Měl bych přestat jíst.",
+                "...Jsem nafouklý.",
+                "Musím snížit svoji tělesnou hmotnost, než to bude smrtelné.",
+                "Můj tělesný objem začíná představovat problém.",
+                "Jsem tlustý."
             ],
             "opiated": [
                 "",
@@ -4780,7 +4780,7 @@
                 "",
                 "",
                 "",
-                ""
+                "To nemůže být dobrý."
             ],
             "hitbycreature": [
                 "",
@@ -5139,154 +5139,154 @@
         },
         {
             "seeGravel": [
-                "",
-                "",
-                "",
-                "",
-                "",
-                "",
-                ""
+                "Hhrnnn... Ta-dy...",
+                "Nnhh... Še-dá...",
+                "Du-ne... Jít...",
+                "...Proč stá-t..?",
+                "Nnnhh... Jí-dlo zde...",
+                "Při-jí-t.",
+                "Zi-ma..?"
             ],
             "eatGood": [
-                "",
-                "",
-                "",
-                "",
-                "",
-                "",
-                ""
+                "Nngghhhrr! Paml-sek!!",
+                "Ngghraahhh! Du-ne lí-bit..!",
+                "Hnnn...Hnnnrr...Do-brý..",
+                "Jí-dlo... Do-brý...",
+                "Chu-ť... Spe-ci-ál-ní... Nhhrr...",
+                "Nrr... Rá-d...",
+                "Ch-tí-t... Ví-ce..."
             ],
             "eatMediocre": [
+                "Nnnhrrr... Jí-dlo...",
+                "Du-ne... Jí-st... Nrrhh...",
                 "",
-                "",
-                "",
-                "",
-                "",
-                "",
-                ""
+                "Jí-st... Do... Nggrrhh... Sy-ta...",
+                "Jí-dlo...",
+                "Chu-t-né...",
+                "Du-ne... Rá-d jí-st... Ghhr..."
             ],
             "eatBad": [
                 "",
-                "",
-                "",
-                ""
+                "Nggrhaahhh... Jí-dlo...",
+                "Nngrr... Ví-ce..?",
+                "Ch-ce... Du-ne... Gnnhnhrr... Jí-dlo... Nhhrr..."
             ],
             "refuseEat": [
+                "...Co?",
+                "Du-ne... Ne... Grr..",
                 "",
                 "",
-                "",
-                "",
-                ""
+                "Špat-ný..."
             ],
             "tired": [
+                "Spá-t... Ch-tít...",
+                "Du-ne... Ha-jí...",
+                "S...Pát.",
                 "",
-                "",
-                "",
-                "",
-                "",
-                ""
+                "Spááá-t.... Spááá-nek...",
+                "Mnnhhrr... Leh-nout..."
             ],
             "verytired": [
-                "",
-                "",
-                "",
-                "",
-                ""
+                "Po-tře-ba.... Spá-t...",
+                "U-na... Véééén...",
+                "Nnnhhh......Leh-nout...",
+                "Leh-nout... Do-le...",
+                "Hhhrrnn... S...Spááá-t..."
             ],
             "confused": [
+                "Hla-va...",
                 "",
+                "Cc.... C-o....",
+                "Ne... Vě-dět...",
+                "Zma-te-ný....",
                 "",
-                "",
-                "",
-                "",
-                "",
-                "",
+                "Ne... Du-ne... Div-ný..... Ghhr...",
                 ""
             ],
             "wakeup": [
+                "Du-ne... Vsta-nout...",
+                "A-hoj...",
                 "",
                 "",
-                "",
-                "",
-                "",
+                "Ži-vý...Ghrr...",
                 ""
             ],
             "vomit": [
+                "Bři-cho... Bo-ju-je...",
+                "Jí-dlo... Bo-ju-je zpát-ky...",
                 "",
-                "",
-                "",
-                "",
-                "",
-                ""
+                "Hnnnghh..? Ghhr... C-o...",
+                "Nhgghhrr... Du-ne...... Špat-ný....",
+                "Ghhn... Špat-ný... Jí-st?"
             ],
             "vomitblood": [
+                "Du-ne... Cí-tit zleee...",
                 "",
                 "",
+                "Ggyiacckk! Grhrh... C-o...",
                 "",
-                "",
-                "",
-                "",
-                ""
+                "Grhrhaughh... Ghnnn... P-roč...",
+                "Nggh...du-ne...ne-ní...do-bře..."
             ],
             "full": [
-                "",
-                "",
-                "",
-                "",
-                "",
-                ""
+                "Du-ne pl-ný...",
+                "Jí-st hod-ně...!",
+                "Poč-kat jí-st...",
+                "Du-ne už ne jí-st...",
+                "Ngghh... Pl-ný...",
+                "Do-st... Gnnh..."
             ],
             "hungry": [
-                "",
-                "",
-                "",
-                "",
-                "",
-                "",
-                "",
-                "",
-                "",
-                ""
+                "Chtí-t... Ví-ce... Jí-dla...",
+                "Du-ne...hlad...",
+                "Kous...?",
+                "...Nggh... Ch-tí-t...",
+                "Hla...d...",
+                "*slintání*",
+                "Kde... jí-st..?",
+                "Jí-st...",
+                "Ně-co... k jí-dlu?",
+                "Du-ne...jí-st..?"
             ],
             "starving": [
-                "",
-                "",
-                "",
-                "",
-                "",
-                ""
+                "*pořádně slintá*",
+                "Mu-sí... Jíst!",
+                "Ngghhhhrrr! Jí-dlo!!!",
+                "NGHHRRHHH!! Kde jí-dlo!?",
+                "Nhghhrrr! Du-ne hla-do-vý!!",
+                "NNGRHH!! JÍ-DLO!! DU-NE!!"
             ],
             "thirsty": [
-                "",
-                "",
-                "",
-                "",
-                "",
-                ""
+                "Lo-k..?",
+                "Vo-da...",
+                "Mmm... Pít..?",
+                "Du-ne... Vo-da...",
+                "Ch-tít... Vo-da..?",
+                "Pít..."
             ],
             "dehydrated": [
-                "",
-                "",
-                "",
-                "",
-                "",
-                "",
-                ""
+                "Po-tře-ba... Vo-da..!",
+                "Ngghh... Su-cho...",
+                "Vo-da...teď!!",
+                "Gghrhhh... Vo-da!!",
+                "Du-ne... Vys-ch-lý..!",
+                "Du-ne... Vo-da... TEĎ!",
+                "Gghhrraaaghh! Pít! Teď..!"
             ],
             "limbmuscle": [
-                "",
-                "",
-                "",
-                "",
-                "",
-                ""
+                "<Limb> se ne-hý-bat...",
+                "Du-ne <limb> pře-stat pra-co-vat..?",
+                "Du-ne po-tře-ba nová <limb>.",
+                "<limb> ne-fun-kční...nnngrrhh...",
+                "<limb> je zlá..! Gghhrr!",
+                "Du-ne...<limb> bo-let..!"
             ],
             "limbinfected": [
-                "",
-                "",
-                "",
-                "",
-                ""
+                "Du-ne <limb> tep-lá..",
+                "Nemoc-ný..?",
+                "Nnnrr...<limb> vy-pa-dat div-ně..?",
+                "Du-ne <limb> vy-ráž-ka..?",
+                "Hhnnn...<limb> cí-tít div-ně..."
             ],
             "limbskin": [
                 "",
@@ -5556,70 +5556,70 @@
                 ""
             ],
             "hitbycreature": [
-                "",
-                "",
-                "",
-                "",
-                "",
-                "",
-                ""
+                "Ó? Ká-moš kou-sat?",
+                "Nggrch! Z-lá vě-c!!",
+                "GGRRGHHH! DU-NE ZA-BÍT!!!!",
+                "GRRACK! NE-CHAT DU-NE!",
+                "GGRHR! KOUS-NOUT ZPĚT!",
+                "RGHGN! DU-NE POMSTA!",
+                "GACK! Z-LÝ!"
             ],
             "dirty": [
-                "",
-                "",
-                "",
-                "",
-                "",
-                "",
-                "",
-                ""
+                "Du-ne... Špi-na-vý..?",
+                "Du-ne potřebuje kou-pel...",
+                "Du-ne cítit zá-pach.",
+                "Cítit špínu.",
+                "Či-chat zápach.",
+                "Smra-ďoch.",
+                "Strašně. Smrdět!",
+                "Moc smr-dět."
             ],
             "encumbered": [
-                "",
-                "",
-                "",
-                "",
-                "",
-                "",
-                "",
-                "",
-                "",
-                "",
-                ""
+                "Du-ne silný!!",
+                "Du-ne nést mno-ho.",
+                "Nést hod-ně.",
+                "Hodně věcí.",
+                "Du-ne silný...dune nést!",
+                "Du-ne těžký.",
+                "Du-ne hmot-ný.",
+                "Těž-ký.",
+                "Hmotný...",
+                "Nrrr...né-st hodně.",
+                "Nrrr...du-ne né-st hodně."
             ],
             "watchlike": [
-                ""
+                "Grrr. Ko-vo-vý pří-tel div-ný!"
             ],
             "drillend": [
-                "",
-                "",
-                "",
-                ""
+                "Du-ne bojí.",
+                "Straš-li-vý.",
+                "Hla-si-tý zvu-k...",
+                "Du-ne chy-trý!!"
             ],
             "loud": [
+                "GGRAAAAACKK! C-O!?",
                 "",
                 "",
-                "",
-                "",
-                ""
+                "GRRACK! HLA-SI-TÝ!",
+                "AUGRH! HLU-K!!!"
             ],
             "murderregret": [
-                "",
-                "",
-                "",
-                "",
-                "",
-                ""
+                "DU-NE VYHRÁT!",
+                "DU-NE PORAZIT Z-LÝ KÁ-MOŠ!",
+                "GRRAAACCHH! AAHHAAKAKA!! AAAAAUURAHHACGGHRAAAA!! DU-NE SILNÝÝÝÝÝÝ!!!!",
+                "DU-NE ULOVIT SLABÝ PŘÍ-TEL!!!",
+                "DU-NE ULO-VIT ŽRÁ-DLO!!",
+                "GRRHCHH! SLABÁÁÁ KO-ŘIST!"
             ],
             "tradeemeet": [
-                "",
-                "",
-                "",
-                "",
-                "",
-                "",
-                "",
-                ""
+                "Du-ne najít!!",
+                "A-hoj!!",
+                "Du-ne zdra-vit!!",
+                "A-hoj?",
+                "Mmmrrrrn...ká-moš?",
+                "Ká-moš?",
+                "Oooo! Ká-moš!!",
+                "Žrá-dlo?"
             ],
             "swingresponse": [
                 "",
@@ -5642,7 +5642,7 @@
                 "",
                 "",
                 "",
-                "",
+                "Je tam někdo?",
                 "milky",
                 "",
                 "",
@@ -5650,47 +5650,47 @@
                 "",
                 "",
                 "",
-                "",
+                "Ko-v...",
                 ""
             ],
             "lastmoments": [
+                "Du-ne...bo-jí...",
+                "Du-ne...po-tře-bu-je...pomoc!",
                 "",
                 "",
                 "",
+                "Nnhhrrhuhhh! Ne!!!",
+                "Du-ne!!! Po-mo-c!!",
+                "P...pro-č...",
                 "",
-                "",
-                "",
-                "",
-                "",
-                "",
-                "",
-                "",
-                "",
-                "",
-                "",
-                "",
-                ""
+                "Rrrnn...Hhhh...Du-ne....umřít...?",
+                "Svět-lo...při-jít...",
+                "Cí-tit...te-mno-ta...",
+                "je...konec..?",
+                "je.....po všem...",
+                "ne...při-pra-ven...",
+                "rnhh...du-ne...po-moc..."
             ],
             "magicheal": [
                 ""
             ],
             "selfdestruct": [
-                ""
+                "Oooorrhhn! Du-ne nový zvuk? Hooohh..."
             ],
             "endlessloop0": [
-                ""
+                "...Mmmrrnnngghh... Ngghh......zno-vu?"
             ],
             "endlessloop1": [
-                ""
+                "Ngghhr. Du-ne mít rád výz-vy. Du-ne jít zno-va!"
             ],
             "endlessloop2": [
-                ""
+                "Oo! Zno-vu? Ví-ce míst na-jít žrá-dlo!"
             ],
             "endlessloop3": [
-                ""
+                "Du-ne vlastní jes-ky-ně."
             ],
             "endlessloopdefault": [
-                ""
+                "Nrrrg! Wheee! Du-ne vyhrát!"
             ],
             "tradermeetnormal": [
                 "Mmm... A-hooj....",
@@ -5908,6 +5908,54 @@
             "dyingresponse": [
                 "Co se děje s fri-endem..?",
                 "Du-ne ne-ví, jak po-moci..."
+            ],
+            "wwmr": [
+                "Hooohh... Ta-dy... zá-řit... Du-ne blíz-ko..?"
+            ],
+            "cargo1": [
+                "Du-ne vidět... Vě-c..."
+            ],
+            "cargo2": [
+                "Žrá-dlo...? Hhoooohhhh....hhhooh..?"
+            ],
+            "cargoimpale3": [
+                "Hhr...n..mmm...du-ne může ode-jít..."
+            ],
+            "endpodexamine": [
+                "Ča-s ode-jít?"
+            ],
+            "ascententer": [
+                "Oooo! Čer-ve-ná..."
+            ],
+            "labenter": [
+                "(Du-ne zpět do-ma... Du-ne opa-tr-ný...)"
+            ],
+            "labresponse": [
+                "Ne-vě-dět."
+            ],
+            "labthink1": [
+                "(Hlad...)"
+            ],
+            "labthink2": [
+                "(Du-ne vidí žrádlo. Du-ne vzít. Du-ne ode-jít.)"
+            ],
+            "labthink2chip": [
+                "(Du-ne nedostat žrádlo. Du-ne smutný.)"
+            ],
+            "labcommentcalm": [
+                null,
+                null,
+                "Žrádlo...žrádlo...pojď...",
+                "Du-ne...zabít...všechny...",
+                "Hos-ti-na...při-chá-zí..."
+            ],
+            "labcommentcombat": [
+                null,
+                null,
+                null,
+                "SMRT PŘI-CHÁ-ZÍ!!!",
+                "POJĎ K DU-NE!!!",
+                "DU-NE HO-DO-VAT NA MA-SE!!!"
             ]
         }
     ],
@@ -6422,32 +6470,32 @@
         ],
         [
             {
-                "Item1": "",
+                "Item1": "je tu nějaká divná strojová věc... myslím si, že se zamaskovalo za jednu z těch krabic, co tady nalézám. Střelilo něco na mě... i když to bolelo, zároveň mě to docela příjemně ochladilo... nedokážu tyhle věci pochopit",
                 "Item2": "milky",
                 "Item3": "experiment"
             },
             {
-                "Item1": "",
+                "Item1": "studený prásk věc dobrá",
                 "Item2": "milky",
                 "Item3": "dune"
             },
             {
-                "Item1": "",
+                "Item1": "Přinesl jsem malé množství těchto podivných měnících se jader z předchozího biomu, ve kterém jsem byl. Zdá se, že když je nechám proměnit v \"manifestaci\", jsem schopný je použít jako zdroj nekonečných živin a tekutin, jelikož jedno jádro se promění ve dvě po manifestaci. Docela užitečné.",
                 "Item2": "milky",
                 "Item3": "milky"
             },
             {
-                "Item1": "",
+                "Item1": "Našel jsem nějakou podivnou, mimozemsky vypadající kouli z jednoho z těch dronů... nápis na ní říkal něco o \"kryo\"? Neměl jsem pro to žádné využití, a tak jsem to hodil do louže těch roztavených kamenů... a ony ztuhly..?",
                 "Item2": "milky",
                 "Item3": "experiment"
             },
             {
-                "Item1": "",
+                "Item1": "pořád si popaluju tlapky o tyhle žhavé kameny. bojím se, že se mi do toho dostane infekce... naštěstí, tyhle zářící oranžové liány mi trochu ulevily, když jsem si je omotal kolem rány. pak jsem udělal tu chybu, že jsem si sáhl na oči, aniž bych si umyl ruce. ow.",
                 "Item2": "milky",
                 "Item3": "experiment"
             },
             {
-                "Item1": "",
+                "Item1": "Našel jsem podivnou díru ve zdi vedle mě. Když jsem do ní nahlédl, vynořilo se z ní divné, suché chapadlo, co se na mě přichytilo na chvíli, a provádělo jakýsi sací pohyb, následně pak zmizelo zpátky do svého úkrytu. I když jsem se po té události docela bál, zdá se, že jsem v pořádku.<>\nNezaznamenal jsem žádnou znatelnou změnu ve \"Zdravotním panelu\", přesto je možný, že mi něco uniklo. Ať je to za stvoření cokoliv, nevypadá, jako by mělo představovat nějakou hrozbu pro kolemjdoucí.",
                 "Item2": "milky",
                 "Item3": "milky"
             }
@@ -6455,11 +6503,11 @@
     ],
     "pdaNotes": [
         {
-            "Item1": "",
+            "Item1": "[VÝZKUMNÁ ZPRÁVA, 29.1.24XX]<>\nPořád skoro nemůžu uvěřit tomu, na co se dívám. Subjekt je velký jako moje pěst, žlutý a slizký. Podle všeho jde o kus masa. Nevíme, odkud pochází ani z čeho vznikl, ale naše přístroje potvrzují, že je biologického původu a že se zcela vymyká všemu, co známe. Bylo to nalezeno ve vraku ██████ ███████, srostlé s přijímací deskou. Tohle představuje obrovský průlom v našem výzkumu, ale za ztrátu zařízení to je jen malá útěcha. Nerozumím tomu. Přes deset let ve výzkumu teleportace jsme se potýkali se slepými uličkami, kde jsme sotva dokázali teleportovat jednotlivé částice a pak se tady tohle objeví?<>\nPravděpodobnost, že náš experiment náhodou narazí na tvora z neznámé planety, je minimální, ne-li nulová. Mělo by to být nemožné, a přesto jsme tu. Musíme to ututlat. Nemůžeme riskovat, že přijdeme o finanční prostředky od investora nebo že vyděsíme veřejnost. Rozhodně ne teď. Alespoň bude mít bio tým něco na prozkoumání, zatímco my přestavíme celý projekt od základů.",
             "Item2": "milky"
         },
         {
-            "Item1": "",
+            "Item1": "[VÝZKUMNÁ ZPRÁVA, 3.11.24XX]<>\nTa „žlutá krev“ z incidentu █████████ je vážně pozoruhodná. Její přizpůsobivost nemá na Zemi obdoby. Dokonce i při intenzivním záření se dokáže sama regenerovat skoro ihned. Jde o úroveň rekombinace, jakou známe pouze z buněk našeho imunitního systému, jenže tady se týká celého genomu. Když jsme se pokusili o přepsání genetické informace pomocí našich virových vektorů, nějakým způsobem je začlenila do svého genetického kódu, aniž by přitom utrpěla jakoukoli ztrátu.<>\nVstříkli jsme tyhle mimozemské geny do buněk krysy. Výsledek ohromil Doktora █████ natolik, že spadl ze židle. Genová exprese se nekontrolovaně rozjela a organismus začal využívat DNA z jakéhokoliv zdroje, který dokázal najít, a bez problémů ji začleňovat do DNA hostitelských buněk. Udělalo to z posledních 100 let biologického výzkumu frašku. Hostitel umřel krátce poté. Funguje to jako jakési lešení, které umožňuje DNA sekvencím přesouvat se a rekombinovat, aniž by okamžitě získaly vlastnosti typické pro rakovinné buňky. Opakovali jsme tenhle experiment s několika dalšími genomy, dokonce sekvence od úplně odlišných druhů byly zahrnuty. Skutečné výsledky jsou velice nepředvídatelné. Připadá mi to spíš jako vaření čarodějnických lektvarů než skutečná biologie, ale kdo ví, jaký potenciál se v tom skrývá.",
             "Item2": "milky"
         },
         {
@@ -6550,11 +6598,11 @@
             "Už jsi unavený?",
             "Čas se zastavil.",
             "Já počkám.",
-            "",
+            "Čekám na tebe.",
             "Hej!",
-            "",
+            "\"Když už jdeš pryč, přinesl bys mi sodovku?\"",
             "A tak se čas zastavil...",
-            "",
+            "Hodiny se zastavily.",
             "Dejme si pauzu.",
             "Hej, vrať se do práce!",
             "Čas na oběd?",
@@ -6569,7 +6617,7 @@
             "A tak se to zastavilo...",
             "Máš něco na srdci?",
             "Můžu čekat celý den.",
-            "",
+            "Svět se zastavil. Je tu ticho.",
             "Nezapomeň si protáhnout nohy.",
             "Mám všechen čas, co potřebuju. To samé se o tobě říct nedá.",
             "Uvězněn ve věčnosti.",
@@ -6577,7 +6625,7 @@
             "Pozastavuješ čas neustále jen proto, abys viděl, co ti řeknu?",
             "Hvězdy tě sledují.",
             "\"Člověk\" není jediné, co tě sleduje.",
-            "Hned za tebou.",
+            "Tohle místo je mnohem zajímavější, než vůbec dokážeš pochopit.",
             "",
             "Tvoji nadřízení ti neříkají všechno."
         ],
@@ -6604,7 +6652,7 @@
             "Ještě to můžeš zachránit. Viděl jsem horší.",
             "Doufám, že přemýšlíš o tom, co jsi právě udělal.",
             "Škoda, zrovna když jsem o tebe začínal jevit zájem.",
-            "",
+            "Ty jsi neuvěřitelné zklamání, a přesto tak pobavující.",
             "Jsi chodící mrtvola. Statisticky vzato.",
             "Oddaluješ nevyhnutelné?",
             "Obávám se, že je to smrtelné."
@@ -6612,18 +6660,18 @@
         "happy": [
             "Nedělej si tu moc pohodlí.",
             "Veselé přežívání!",
-            "",
+            "Pýcha předchází pád.",
             "Velký blud. Velké selhání a plýtvání. Ale pro mě ne.",
-            "",
+            "Máš to vážně pod kontrolou?",
             "Tvoje představa o jakémkoliv zdání kontroly je úsměvná. Pokračuj.",
             "Vážně si myslíš, že ta věc stojí za to táhnout se až tam dolů? Můžu jich vyrobit spoustu dalších.",
             "Máš pocit, že to tu řídíš?",
-            "",
+            "Nikdy bys nedokázal pochopit rozsah toho všeho.",
             "Tolik důvěry ve tvůj vlastní intelekt. Roztomilé."
         ],
         "depressed": [
-            "",
-            "",
+            "Do toho, nalož se ve své bídě.",
+            "Volíš si snadnou cestu ven.",
             "Ve stresu?",
             "Máš moc velkej strach?",
             "Vzdáváš to?",
@@ -6631,7 +6679,7 @@
             "A co teď? Jaký je tvůj další krok?",
             "Můžeš to rovnou zabalit. Tlačítko je hned tamhle.",
             "Jsi až moc odolný pro své vlastní dobro.",
-            ""
+            "Oh, ty ubohé stvoření."
         ],
         "<spoiler>": [
             ""
@@ -6640,9 +6688,9 @@
             ""
         ],
         "combat": [
-            "",
+            "Vypadá to, že se bavíš.",
             "Ale no tak!",
-            "",
+            "Hey, já jsem se na to díval!",
             "Mohls mi dát aspoň varování.",
             "Ještě jsme neskončili. Vrať se k tomu.",
             "Skončili jsme, až když já řeknu, že jsme skončili.",
@@ -6653,7 +6701,7 @@
             "Je neslušné nechat někoho čekat.",
             "Není pozastaveno. Dělám si srandu!",
             "Tenhle tvůj zvyk se mi nelíbí.",
-            "",
+            "Z tebe dostanu migrénu…",
             "Děláš to naschvál? Pohni s tím.",
             "Hej, zrovna jsme se dostávali k té nejlepší části!",
             ""
@@ -6661,13 +6709,13 @@
         "combatelder": [
             "",
             "",
-            "",
+            "To vypadá naléhavě.",
             "",
             "Využij tento čas moudře.",
             "Měls vidět ten svůj výraz!",
-            "",
-            "",
-            ""
+            "Vypadá to, že sis našel nového kamaráda!",
+            "Nedopadni jako žrádlo.",
+            "Mohl jsi vyhrát."
         ]
     }
 }
