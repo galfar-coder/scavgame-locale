@@ -592,7 +592,8 @@
         "steelprosthesis": "Ocelová protéza",
         "steelprosthesisdsc": "Kovová protéza nahrazující ztracenou končetinu. Ve většině ohledů se vyrovná běžné končetině. Opravpomocí šrotu. Pro připevnění ji použij na hrudník nebo břicho. 10 INT je zapotřebí ke spolehlivému připevnění.",
         "peo": "P.E.O. končetina",
-        "peodsc": "Proteticky vylepšená končetina. Téměř ve všech ohledech je lepší než běžná končetina. Oprav pomocí titanu. Pro připevnění ji použij na hrudník nebo břicho. 14 INT je zapotřebí ke spolehlivému připevnění."
+        "peodsc": "Proteticky vylepšená končetina. Téměř ve všech ohledech je lepší než běžná končetina. Oprav pomocí titanu. Pro připevnění ji použij na hrudník nebo břicho. 14 INT je zapotřebí ke spolehlivému připevnění.",
+        "mercscarf": "M.E.R.C. šála"
     },
     "buildings": {
         "animalcorpse": "Zvířecí mršina",
