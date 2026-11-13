@@ -593,7 +593,20 @@
         "steelprosthesisdsc": "Kovová protéza nahrazující ztracenou končetinu. Ve většině ohledů se vyrovná běžné končetině. Opravpomocí šrotu. Pro připevnění ji použij na hrudník nebo břicho. 10 INT je zapotřebí ke spolehlivému připevnění.",
         "peo": "P.E.O. končetina",
         "peodsc": "Proteticky vylepšená končetina. Téměř ve všech ohledech je lepší než běžná končetina. Oprav pomocí titanu. Pro připevnění ji použij na hrudník nebo břicho. 14 INT je zapotřebí ke spolehlivému připevnění.",
-        "mercscarf": "M.E.R.C. šála"
+        "mercscarf": "M.E.R.C. šála",
+        "mercscarfdsc": "Prostřednictvím implantovaných čipů poskytuje uživateli nesmírnou moc. Avšak vyžaduje nějaký speciální zdroj energie, navíc se to dlouho nabíjí... Musíš se i s tímhle dostat živý ven z jeskyně.",
+        "regenerationchip": "REL-Hyper-Regenerační posilovač",
+        "regenerationchipdsc": "Pokročilý tělesný čip, který výrazně urychluje regeneraci zranění, výměnou za zvýšený metabolismus. Zatím to nepotřebuješ, ale bude se ti to hodit později.",
+        "capacitorchip": "Mikro-JEDNOBTRK 1NBT kapacitor",
+        "capacitorchipdsc": "Pokročilá nanobaterie, která dokáže uchovat a uvolnit obrovské množství energie v relativně krátkém čase. Zatím ji nepotřebuješ, ale bude se ti hodit později.",
+        "swapchip": "Čip na výměnu mysli v0.2.9",
+        "swapchipdsc": "Záhadný tělesný čip, co se propojí s hostitelem, umožňujíc mu, krátce po smrti, rychle přesunout jeho vědomí do čipu a poté do nového těla. Zatím ho nepotřebuješ, ale bude se ti hodit později.",
+        "rejuvenationchip": "Čip nouzového znovuzrození v0.0.7",
+        "rejuvenationchipdsc": "Surové vylepšení čipu na výměnu mysli, co dokáže hostiteli se přetvořit do nového, avšak nikoliv stabilního, těla za použití DNA, která je na zařízení uchována a zbytku biomasy hostitele, který je již mrtvý. Zatím ho nepotřebuješ, ale bude se ti hodit později.",
+        "aichip": "Orson-GPT čip",
+        "aichipdsc": "Relativně jednoduchý tělesný čip, co umožňuje jednoduchému AI systému komunikovat s hostitelem, a tak mu pomoct s některými věcmi. Zatím ho nepotřebuješ, ale bude se ti hodit později.",
+        "kineticchip": "Čip Kinetického vysílače",
+        "kineticchipdsc": "Experimentální čip, co dokáže vytvořit miniaturní zkreslení časoprostoru okolo dvou bodů, telekineticky postrkuje hostitele a objekt do jakéhokoliv volitelného směru. Zatím ho nepotřebuješ, ale bude se ti hodit později."
     },
     "buildings": {
         "animalcorpse": "Zvířecí mršina",
@@ -4177,6 +4190,20 @@
             "dyingresponse": [
                 "Sakra... Eh... Nikdy jsem se neučil, jak někoho resuscitovat...",
                 "Já... Eh... Doufám, že budeš v pořádku..."
+            ],
+            "labcommentcombat": [
+                "JEBAT TĚ!! JEBAT TĚ!!!! JEBAT VÁS VŠECHNY!!!!",
+                "BUDU SE DÍVAT, JAK TVŮJ ŽIVOT MIZNE Z TVÝCH OČÍ!!!",
+                "DO PEKLA S VÁMI!!!",
+                "UŽ ŽÁDNÝ DALŠÍ TYHLE SRÁČKY!!",
+                "KONČÍM S TĚMIHLE HRAMI!!",
+                null,
+                "KDO SI KURVA MYSLÍŠ, ŽE JSI!?",
+                "NIKDO SI NA TEBE NEVZPOMENE!!",
+                "VŠICHNI ZA TOHLE ZAPLATÍTE!!",
+                "JÁ SE TAK LEHCE NEVZDÁM!!",
+                "VY KABÁTOVŠTÍ ZMRDI!!",
+                "JDĚTE DO PEKLA!!!!"
             ]
         },
         {
@@ -4484,25 +4511,25 @@
                 "Jsem příliš ubohý na to, abych uspěl.",
                 "Pouhý pytel masa, krve a kostí...",
                 "Jaký krutý nevtip...",
-                "",
-                "",
-                "",
-                "",
-                "",
-                "",
-                ""
+                "Nechť to přestane...",
+                "Vzdávám to.",
+                "Skvěěěěěělý. Nádherný.",
+                "Bude brzy po všem.",
+                "Zahynul jsem v okamžik, kdy jsem dorazil.",
+                "Mýlil jsem se... Já to nezvládnu.",
+                "Tohle mám za to..."
             ],
             "angeronitem": [
-                "",
-                ""
+                "NGH! Hmmh... To je mi trochu líp.",
+                "GHH! ...To bylo... Překvapivě příjemné."
             ],
             "suicide": [
+                "Nemůžu. Tohle už. Dál snášet. Konec.",
                 "",
-                "",
-                "",
+                "Hotovo. Kašlu na to.",
                 "Seru na to.",
                 "...",
-                ""
+                "Omlouvám se."
             ],
             "refuse": [
                 "...",
@@ -5153,6 +5180,29 @@
                 "Nejsem si jistý, jestli v této situaci pomůže KPR (resuscitace).",
                 "Vážně? Umírat na MOJÍ podlaze?",
                 "Zlepší panikaření tuhle situaci?"
+            ],
+            "labcommentcalm": [
+                "Oni za to...zaplatí...",
+                "Již žádné další hry.",
+                "Ať všichni zúčastnění jdou k čertu...",
+                null,
+                "(Beru si svou svobodu.)",
+                "Všichni si to zasloužili.",
+                "(Bojím se.)",
+                "Ggh...hovada...",
+                "(Až budou pryč, nikomu chybět nebudou.)"
+            ],
+            "labcommentcombat": [
+                "NNGRRAAHHH! CHCÍPNI!",
+                "K ČERTU S VÁMI VŠEMI!!!",
+                "STÁHNU VÁS S SEBOU!!",
+                "TOHLE VÁM PROCHÁZELO AŽ PŘÍLIŠ DLOUHO!!",
+                "ZAVOLEJ SI POSILY!! JESTLI TO ZVLÁDNEŠ!!",
+                "JÁ TĚ KURVA SEŽERU!!",
+                "CHCÍPNI!!",
+                "NO TAK!! VOLEJ O POMOC!!!",
+                "SI MYSLÍŠ, ŽE MĚ DOKÁŽEŠ ZASTAVIT!?",
+                "TVŮJ ČAS NADEŠEL!!"
             ]
         },
         {
@@ -5307,33 +5357,33 @@
                 "Hhnnn...<limb> cí-tít div-ně..."
             ],
             "limbskin": [
-                "",
-                "",
-                "",
-                "",
-                ""
+                "<limb> žlu-tá..?",
+                "Oooouur! <limb> is špat-ná!",
+                "Du-ne ublížen...",
+                "Du-ne <limb> bolet...",
+                "Ghhhrr...<limb> nebýt dob-rá..."
             ],
             "sad": [
-                "",
-                "",
-                "",
-                "",
-                "",
-                "",
-                ""
+                "Smutný.",
+                "Du-ne smutný.",
+                "Bez ús-měvu...",
+                "Du-ne bez ús-měvu...",
+                "Du-ne cí-tit zle.",
+                "Nebýt šťast-ný...",
+                "Du-ne nebýt šťast-ný..."
             ],
             "gloomy": [
+                "Žrád-lo udělat dobrý po-cit...",
+                "Žrá-dlo udělat du-ne dobrý po-cit...",
+                "Vel-mi smuuuutný...",
+                "Du-ne vel-mi smuuuutný...",
+                "Grrr..zlá mysl.",
+                "Grrhhh...du-ne mít zlou mysl...",
                 "",
                 "",
                 "",
-                "",
-                "",
-                "",
-                "",
-                "",
-                "",
-                "",
-                ""
+                "Du-ne se necítit dob-ře!",
+                "Necítit se dob-ře!"
             ],
             "depressed": [
                 "",
